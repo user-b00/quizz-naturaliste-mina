@@ -1,0 +1,899 @@
+{
+  "Rhinolophus ferrumequinum": {
+    "Habitat": "Bocage, prairies pâturées et lisières ; gîtes en bâtiments et cavités",
+    "Mode de chasse": "Capture de gros insectes en vol bas ou depuis un perchoir",
+    "Taille moyenne": "Environ 5,5–7 cm de corps"
+  },
+  "Rhinolophus hipposideros": {
+    "Habitat": "Bocages, forêts feuillues et vallées ; gîtes bâtis et souterrains",
+    "Mode de chasse": "Vol agile près de la végétation, capture de petits insectes",
+    "Taille moyenne": "Environ 3,5–4,5 cm de corps"
+  },
+  "Myotis daubentonii": {
+    "Habitat": "Cours d’eau, canaux et plans d’eau bordés d’arbres",
+    "Mode de chasse": "Capture de diptères au ras de l’eau",
+    "Taille moyenne": "Environ 4,5–5,5 cm de corps"
+  },
+  "Pipistrellus pipistrellus": {
+    "Habitat": "Villes, villages, lisières et boisements ; gîtes en bâtiments",
+    "Mode de chasse": "Chasse de petits insectes en vol autour des arbres et éclairages",
+    "Taille moyenne": "Environ 3,5–5 cm de corps"
+  },
+  "Nyctalus noctula": {
+    "Habitat": "Boisements à vieux arbres, parcs et zones ouvertes",
+    "Mode de chasse": "Chasse rapide en altitude, souvent au-dessus de la canopée",
+    "Taille moyenne": "Environ 6–8 cm de corps"
+  },
+  "Eptesicus serotinus": {
+    "Habitat": "Milieux agricoles, bocages, lisières et villages",
+    "Mode de chasse": "Chasse en vol de gros insectes, notamment coléoptères",
+    "Taille moyenne": "Environ 6–8 cm de corps"
+  },
+  "Barbastella barbastellus": {
+    "Habitat": "Forêts matures, bocage et lisières ; gîtes sous écorces décollées",
+    "Mode de chasse": "Capture surtout des petits papillons nocturnes",
+    "Taille moyenne": "Environ 4,5–6 cm de corps"
+  },
+  "Erinaceus europaeus": {
+    "Habitat": "Haies, jardins, lisières, bocage et parcs",
+    "Régime alimentaire": "Invertébrés, notamment vers, coléoptères et limaces",
+    "Taille moyenne": "20–30 cm"
+  },
+  "Talpa europaea": {
+    "Habitat": "Sols meubles de prairies, jardins et forêts",
+    "Régime alimentaire": "Lombrics et autres invertébrés souterrains",
+    "Taille moyenne": "12–16 cm"
+  },
+  "Lepus europaeus": {
+    "Habitat": "Milieux ouverts agricoles, prairies et friches",
+    "Régime alimentaire": "Herbivore : graminées, herbacées et pousses",
+    "Taille moyenne": "50–70 cm"
+  },
+  "Oryctolagus cuniculus": {
+    "Habitat": "Pelouses sèches, landes, dunes et lisières avec sol creusable",
+    "Régime alimentaire": "Herbivore : graminées et plantes basses",
+    "Taille moyenne": "35–45 cm"
+  },
+  "Sciurus vulgaris": {
+    "Habitat": "Forêts feuillues et résineuses, parcs arborés",
+    "Régime alimentaire": "Graines, cônes, fruits, bourgeons et champignons",
+    "Taille moyenne": "18–25 cm de corps, hors queue"
+  },
+  "Marmota marmota": {
+    "Habitat": "Pelouses et éboulis subalpins et alpins",
+    "Régime alimentaire": "Herbacées, fleurs et graminées",
+    "Taille moyenne": "45–60 cm de corps, hors queue"
+  },
+  "Castor fiber": {
+    "Habitat": "Rivières lentes, bras morts, étangs et berges boisées",
+    "Régime alimentaire": "Herbivore : écorces, feuilles, jeunes rameaux et plantes aquatiques",
+    "Taille moyenne": "80–100 cm de corps, hors queue"
+  },
+  "Muscardinus avellanarius": {
+    "Habitat": "Haies denses, ronciers, sous-bois et lisières",
+    "Régime alimentaire": "Fruits, noisettes, fleurs et insectes",
+    "Taille moyenne": "6–9 cm de corps"
+  },
+  "Canis lupus": {
+    "Habitat": "Forêts, montagnes et mosaïques rurales à grands espaces",
+    "Régime alimentaire": "Carnivore, principalement ongulés sauvages et parfois domestiques",
+    "Taille moyenne": "100–150 cm de corps, hors queue"
+  },
+  "Vulpes vulpes": {
+    "Habitat": "Bocages, cultures, forêts et zones urbaines",
+    "Régime alimentaire": "Omnivore : petits mammifères, fruits, oiseaux et invertébrés",
+    "Taille moyenne": "60–90 cm de corps, hors queue"
+  },
+  "Ursus arctos": {
+    "Habitat": "Forêts montagnardes, versants et milieux subalpins",
+    "Régime alimentaire": "Omnivore : végétaux, fruits, insectes et vertébrés",
+    "Taille moyenne": "1,5–2,5 m de longueur totale"
+  },
+  "Meles meles": {
+    "Habitat": "Forêts, bocage et lisières avec sols propices aux terriers",
+    "Régime alimentaire": "Omnivore : lombrics, fruits, insectes et petits vertébrés",
+    "Taille moyenne": "60–90 cm de corps"
+  },
+  "Lutra lutra": {
+    "Habitat": "Cours d’eau, lacs, étangs, marais et littoraux offrant des abris",
+    "Régime alimentaire": "Principalement poissons ; aussi amphibiens et crustacés",
+    "Taille moyenne": "60–90 cm de corps, hors queue"
+  },
+  "Lynx lynx": {
+    "Habitat": "Grands massifs forestiers avec zones rocheuses et couvert dense",
+    "Régime alimentaire": "Carnivore : surtout chevreuils et autres mammifères",
+    "Taille moyenne": "80–130 cm de corps"
+  },
+  "Sus scrofa": {
+    "Habitat": "Forêts, fourrés, zones humides et cultures",
+    "Régime alimentaire": "Omnivore : racines, fruits forestiers, invertébrés et charognes",
+    "Taille moyenne": "90–180 cm de corps"
+  },
+  "Cervus elaphus": {
+    "Habitat": "Forêts et lisières proches de prairies",
+    "Régime alimentaire": "Herbivore : herbacées, feuilles et rameaux",
+    "Taille moyenne": "160–250 cm de corps"
+  },
+  "Capreolus capreolus": {
+    "Habitat": "Boisements, bocages, lisières et cultures",
+    "Régime alimentaire": "Herbivore sélectif : bourgeons, feuilles et herbacées",
+    "Taille moyenne": "95–135 cm de corps"
+  },
+  "Lacerta bilineata": {
+    "Habitat": "Haies, lisières, friches et talus bien exposés",
+    "Taille moyenne": "Environ 25–35 cm, queue comprise"
+  },
+  "Timon lepidus": {
+    "Habitat": "Garrigues, pelouses sèches et milieux rocheux méditerranéens",
+    "Taille moyenne": "Environ 40–60 cm, queue comprise"
+  },
+  "Zootoca vivipara": {
+    "Habitat": "Landes, tourbières, prairies fraîches et montagnes",
+    "Taille moyenne": "Environ 12–18 cm, queue comprise"
+  },
+  "Podarcis muralis": {
+    "Habitat": "Murs, rocailles, talus et vieux bâtiments ensoleillés",
+    "Taille moyenne": "Environ 15–20 cm, queue comprise"
+  },
+  "Anguis fragilis": {
+    "Habitat": "Haies, lisières, prairies et jardins à végétation dense",
+    "Taille moyenne": "Environ 30–45 cm"
+  },
+  "Vipera aspis": {
+    "Habitat": "Pelouses sèches, lisières et coteaux rocailleux",
+    "Taille moyenne": "Environ 50–70 cm"
+  },
+  "Vipera berus": {
+    "Habitat": "Landes, tourbières et prairies fraîches",
+    "Taille moyenne": "Environ 50–70 cm"
+  },
+  "Natrix helvetica": {
+    "Habitat": "Zones humides, mares, fossés et prairies proches de l’eau",
+    "Taille moyenne": "Environ 70–120 cm"
+  },
+  "Natrix maura": {
+    "Habitat": "Rivières, canaux, étangs et berges ensoleillées",
+    "Taille moyenne": "Environ 60–90 cm"
+  },
+  "Zamenis longissimus": {
+    "Habitat": "Lisières boisées, haies, murs et pentes chaudes",
+    "Taille moyenne": "Environ 110–160 cm"
+  },
+  "Salamandra salamandra": {
+    "Habitat": "Forêts fraîches et humides proches de ruisseaux et sources",
+    "Période favorable à l’observation": "Soirées douces et humides, surtout printemps et automne",
+    "Taille": "Environ 15–25 cm"
+  },
+  "Ichthyosaura alpestris": {
+    "Habitat": "Mares, étangs et ornières forestières ; phase terrestre en sous-bois",
+    "Période favorable à l’observation": "Printemps, lors de la reproduction aquatique",
+    "Taille": "Environ 7–12 cm"
+  },
+  "Lissotriton helveticus": {
+    "Habitat": "Petites mares, fossés et eaux stagnantes souvent proches des bois",
+    "Période favorable à l’observation": "Printemps, pendant la phase aquatique",
+    "Taille": "Environ 6–10 cm"
+  },
+  "Lissotriton vulgaris": {
+    "Habitat": "Mares et étangs végétalisés de plaine",
+    "Période favorable à l’observation": "Printemps, lors des parades aquatiques",
+    "Taille": "Environ 7–11 cm"
+  },
+  "Triturus cristatus": {
+    "Habitat": "Mares profondes et végétalisées, généralement sans poissons",
+    "Période favorable à l’observation": "Mars à juin, durant la reproduction",
+    "Taille": "Environ 12–18 cm"
+  },
+  "Triturus marmoratus": {
+    "Habitat": "Mares de plaine et landes bocagères, souvent en milieu boisé",
+    "Période favorable à l’observation": "Printemps, pendant la reproduction",
+    "Taille": "Environ 12–17 cm"
+  },
+  "Bombina variegata": {
+    "Habitat": "Ornières forestières, petites flaques temporaires et mares peu profondes",
+    "Période favorable à l’observation": "Mai à août, après les pluies",
+    "Taille": "Environ 3,5–5,5 cm"
+  },
+  "Bufo bufo": {
+    "Habitat": "Bois, jardins et prairies ; reproduction en étangs et mares",
+    "Période favorable à l’observation": "Fin d’hiver et début de printemps, lors des migrations nuptiales",
+    "Taille": "Environ 8–15 cm, femelle souvent plus grande"
+  },
+  "Epidalea calamita": {
+    "Habitat": "Terrains ouverts pionniers, dunes, carrières et gravières",
+    "Période favorable à l’observation": "Printemps et été, nuits douces après pluie",
+    "Taille": "Environ 5–8 cm"
+  },
+  "Rana temporaria": {
+    "Habitat": "Forêts fraîches, prairies humides et mares",
+    "Période favorable à l’observation": "Fin d’hiver à début de printemps, pendant la ponte",
+    "Taille": "Environ 6–10 cm"
+  },
+  "Rana dalmatina": {
+    "Habitat": "Forêts feuillues et mares forestières",
+    "Période favorable à l’observation": "Fin d’hiver et début de printemps, lors de la reproduction",
+    "Taille": "Environ 5–9 cm"
+  },
+  "Hyla arborea": {
+    "Habitat": "Haies, roselières et buissons proches de mares végétalisées",
+    "Période favorable à l’observation": "Printemps à début d’été, chants nocturnes",
+    "Taille": "Environ 3–5 cm"
+  },
+  "Hyla meridionalis": {
+    "Habitat": "Buissons, jardins et zones humides des régions méridionales",
+    "Période favorable à l’observation": "Printemps et été, chants nocturnes",
+    "Taille": "Environ 3–5 cm"
+  },
+  "Thymallus thymallus": {
+    "Habitat et zonation piscicole": "Rivières fraîches à courant soutenu ; zone à ombre",
+    "Période de reproduction": "Printemps, souvent mars à mai",
+    "Taille moyenne": "Environ 30–45 cm"
+  },
+  "Salmo trutta": {
+    "Habitat et zonation piscicole": "Eaux courantes fraîches et oxygénées ; zone à truite",
+    "Période de reproduction": "Automne à début d’hiver, généralement octobre à janvier",
+    "Taille moyenne": "Souvent 20–40 cm selon le cours d’eau"
+  },
+  "Silurus glanis": {
+    "Habitat et zonation piscicole": "Grands cours d’eau lents et lacs profonds ; zone à brème",
+    "Période de reproduction": "Fin de printemps à début d’été",
+    "Taille moyenne": "Très variable ; fréquemment 1–1,5 m chez l’adulte"
+  },
+  "Esox lucius": {
+    "Habitat et zonation piscicole": "Eaux calmes végétalisées et annexes fluviales ; zones à brème et à barbeau",
+    "Période de reproduction": "Fin d’hiver à début de printemps, souvent février à avril",
+    "Taille moyenne": "Souvent 50–80 cm"
+  },
+  "Cyprinus carpio": {
+    "Habitat et zonation piscicole": "Étangs, lacs et rivières lentes ; zone à brème",
+    "Période de reproduction": "Fin de printemps à été, en eau réchauffée",
+    "Taille moyenne": "Environ 40–70 cm"
+  },
+  "Barbus barbus": {
+    "Habitat et zonation piscicole": "Rivières courantes à fonds de graviers ; zone à barbeau",
+    "Période de reproduction": "Fin de printemps à été, souvent mai à juillet",
+    "Taille moyenne": "Environ 30–60 cm"
+  },
+  "Gobio gobio": {
+    "Habitat et zonation piscicole": "Rivières et ruisseaux à fonds sableux ou graveleux ; zones à ombre et à barbeau",
+    "Période de reproduction": "Printemps et début d’été",
+    "Taille moyenne": "Environ 10–15 cm"
+  },
+  "Tinca tinca": {
+    "Habitat et zonation piscicole": "Étangs et eaux lentes riches en végétation ; zone à brème",
+    "Période de reproduction": "Fin de printemps à été",
+    "Taille moyenne": "Environ 20–40 cm"
+  },
+  "Phoxinus phoxinus": {
+    "Habitat et zonation piscicole": "Ruisseaux et rivières fraîches, zones à truite et à ombre",
+    "Période de reproduction": "Printemps à début d’été",
+    "Taille moyenne": "Environ 6–10 cm"
+  },
+  "Rutilus rutilus": {
+    "Habitat et zonation piscicole": "Lacs, canaux et cours d’eau lents ; zone à brème",
+    "Période de reproduction": "Printemps, souvent avril à juin",
+    "Taille moyenne": "Environ 15–25 cm"
+  },
+  "Squalius cephalus": {
+    "Habitat et zonation piscicole": "Rivières de plaine à courant variable ; zones à barbeau et à brème",
+    "Période de reproduction": "Fin de printemps à début d’été",
+    "Taille moyenne": "Environ 20–40 cm"
+  },
+  "Cottus gobio": {
+    "Habitat et zonation piscicole": "Ruisseaux froids à fonds pierreux, surtout zone à truite",
+    "Période de reproduction": "Fin d’hiver à printemps",
+    "Taille moyenne": "Environ 8–12 cm"
+  },
+  "Perca fluviatilis": {
+    "Habitat et zonation piscicole": "Lacs, étangs et rivières lentes ; zones à barbeau et à brème",
+    "Période de reproduction": "Printemps, souvent avril à mai",
+    "Taille moyenne": "Environ 15–30 cm"
+  },
+  "Sander lucioperca": {
+    "Habitat et zonation piscicole": "Grands cours d’eau et plans d’eau relativement profonds ; zone à brème",
+    "Période de reproduction": "Printemps, souvent avril à juin",
+    "Taille moyenne": "Environ 40–70 cm"
+  },
+  "Lampetra planeri": {
+    "Habitat et zonation piscicole": "Petits cours d’eau propres ; larves enfouies dans les sédiments fins",
+    "Période de reproduction": "Printemps, généralement avril à juin",
+    "Taille moyenne": "Environ 12–18 cm"
+  },
+  "Zingel asper": {
+    "Habitat et zonation piscicole": "Rivières du bassin rhodanien, fonds graveleux et courants modérés",
+    "Période de reproduction": "Printemps",
+    "Taille moyenne": "Environ 15–20 cm"
+  },
+  "Cygnus olor": {
+    "Habitat": "Grands plans d’eau, étangs et rivières lentes",
+    "Taille": "Environ 125–170 cm",
+    "Envergure": "Environ 200–240 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Anas platyrhynchos": {
+    "Habitat": "Étangs, marais, rivières et plans d’eau urbains",
+    "Taille": "Environ 50–65 cm",
+    "Envergure": "Environ 80–95 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Podiceps cristatus": {
+    "Habitat": "Lacs et étangs avec végétation aquatique",
+    "Taille": "Environ 46–51 cm",
+    "Envergure": "Environ 59–73 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Egretta garzetta": {
+    "Habitat": "Lagunes, marais, vasières et cours d’eau",
+    "Taille": "Environ 55–65 cm",
+    "Envergure": "Environ 88–106 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Ardea alba": {
+    "Habitat": "Marais, roselières, étangs et prairies humides",
+    "Taille": "Environ 85–100 cm",
+    "Envergure": "Environ 140–170 cm",
+    "Nicheur en France": "Oui, localement"
+  },
+  "Ardea cinerea": {
+    "Habitat": "Marais, rivières, étangs et prairies inondables",
+    "Taille": "Environ 90–98 cm",
+    "Envergure": "Environ 175–195 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Milvus migrans": {
+    "Habitat": "Vallées fluviales, zones humides et boisements proches",
+    "Taille": "Environ 48–58 cm",
+    "Envergure": "Environ 130–155 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Pandion haliaetus": {
+    "Habitat": "Grands plans d’eau et rivières poissonneuses",
+    "Taille": "Environ 52–60 cm",
+    "Envergure": "Environ 145–170 cm",
+    "Nicheur en France": "Oui, localement"
+  },
+  "Fulica atra": {
+    "Habitat": "Plans d’eau et marais riches en végétation",
+    "Taille": "Environ 36–42 cm",
+    "Envergure": "Environ 70–80 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Chroicocephalus ridibundus": {
+    "Habitat": "Zones humides, lacs et littoral ; colonies sur îlots",
+    "Taille": "Environ 35–39 cm",
+    "Envergure": "Environ 86–99 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Sterna hirundo": {
+    "Habitat": "Îlots de graviers, cours d’eau et littoral",
+    "Taille": "Environ 31–37 cm",
+    "Envergure": "Environ 72–83 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Alcedo atthis": {
+    "Habitat": "Cours d’eau et plans d’eau à berges favorables au terrier",
+    "Taille": "Environ 16–17 cm",
+    "Envergure": "Environ 24–26 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Riparia riparia": {
+    "Habitat": "Berges sableuses verticales, sablières et carrières",
+    "Taille": "Environ 12–13 cm",
+    "Envergure": "Environ 26–29 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Cinclus cinclus": {
+    "Habitat": "Rivières et torrents rapides à eaux bien oxygénées",
+    "Taille": "Environ 17–20 cm",
+    "Envergure": "Environ 25–30 cm",
+    "Nicheur en France": "Oui"
+  },
+  "Myotis bechsteinii": {
+    "Habitat": "Vieilles forêts feuillues, cavités d'arbres et lisières",
+    "Mode de chasse": "Chasse lente dans la végétation, glanage d'insectes sur le feuillage",
+    "Taille moyenne": "Corps 4,5–5,5 cm"
+  },
+  "Myotis blythii": {
+    "Habitat": "Prairies sèches, pelouses et gîtes souterrains ou bâtis",
+    "Mode de chasse": "Capture d'orthoptères au sol ou près des herbes",
+    "Taille moyenne": "Corps 6–8 cm"
+  },
+  "Myotis myotis": {
+    "Habitat": "Forêts à sous-bois dégagé, prairies et combles de bâtiments",
+    "Mode de chasse": "Capture de carabes et autres arthropodes au sol",
+    "Taille moyenne": "Corps 6,5–8 cm"
+  },
+  "Nyctalus lasiopterus": {
+    "Habitat": "Forêts matures, grands arbres creux et espaces aériens ouverts",
+    "Mode de chasse": "Chasse en altitude; grands insectes et parfois petits oiseaux migrateurs",
+    "Taille moyenne": "Corps 8–10 cm"
+  },
+  "Plecotus austriacus": {
+    "Habitat": "Villages, bâtiments, vergers et milieux ouverts bocagers",
+    "Mode de chasse": "Capture de papillons nocturnes, souvent par glanage",
+    "Taille moyenne": "Corps 4–5,5 cm"
+  },
+  "Miniopterus schreibersii": {
+    "Habitat": "Paysages karstiques, cavités souterraines et lisières",
+    "Mode de chasse": "Chasse rapide en vol, notamment les papillons nocturnes",
+    "Taille moyenne": "Corps 5–6,5 cm"
+  },
+  "Tadarida teniotis": {
+    "Habitat": "Falaises rocheuses, grands bâtiments et vallées chaudes",
+    "Mode de chasse": "Vol haut et rapide en espace libre, gros insectes",
+    "Taille moyenne": "Corps 8–9,5 cm"
+  },
+  "Neomys fodiens": {
+    "Habitat": "Berges de ruisseaux propres, fossés et zones humides",
+    "Régime alimentaire": "Invertébrés aquatiques, larves et petits animaux",
+    "Taille moyenne": "Corps 6–9 cm"
+  },
+  "Glis glis": {
+    "Habitat": "Forêts feuillues, haies arborées, vergers et greniers",
+    "Régime alimentaire": "Fruits, graines, bourgeons et invertébrés",
+    "Taille moyenne": "Corps 13–19 cm"
+  },
+  "Eliomys quercinus": {
+    "Habitat": "Vergers, vieux murs, lisières, jardins et bâtiments",
+    "Régime alimentaire": "Fruits, insectes, œufs et petits vertébrés",
+    "Taille moyenne": "Corps 10–15 cm"
+  },
+  "Cricetus cricetus": {
+    "Habitat": "Sols profonds de plaines agricoles, cultures et luzernières",
+    "Régime alimentaire": "Graines, végétaux et invertébrés; réserves en terrier",
+    "Taille moyenne": "Corps 20–30 cm"
+  },
+  "Clethrionomys glareolus": {
+    "Habitat": "Sous-bois, haies et lisières riches en couverture végétale",
+    "Régime alimentaire": "Herbes, graines, bourgeons et fruits",
+    "Taille moyenne": "Corps 8–12 cm"
+  },
+  "Arvicola sapidus": {
+    "Habitat": "Berges végétalisées de rivières, fossés et canaux",
+    "Régime alimentaire": "Plantes aquatiques et herbacées des berges",
+    "Taille moyenne": "Corps 16–23 cm"
+  },
+  "Microtus arvalis": {
+    "Habitat": "Prairies, cultures et pelouses ouvertes",
+    "Régime alimentaire": "Graminées et plantes herbacées",
+    "Taille moyenne": "Corps 8–12 cm"
+  },
+  "Ondatra zibethicus": {
+    "Habitat": "Marais, canaux et étangs à végétation dense",
+    "Régime alimentaire": "Végétaux aquatiques, parfois mollusques",
+    "Taille moyenne": "Corps 25–35 cm"
+  },
+  "Apodemus flavicollis": {
+    "Habitat": "Forêts feuillues, haies et lisières arborées",
+    "Régime alimentaire": "Graines, fruits et invertébrés",
+    "Taille moyenne": "Corps 9–13 cm"
+  },
+  "Micromys minutus": {
+    "Habitat": "Roselières, prairies hautes et céréales",
+    "Régime alimentaire": "Graines, herbes et petits insectes",
+    "Taille moyenne": "Corps 5–8 cm"
+  },
+  "Rattus norvegicus": {
+    "Habitat": "Réseaux d'eau, villes, fermes et berges",
+    "Régime alimentaire": "Omnivore opportuniste : déchets, graines et animaux",
+    "Taille moyenne": "Corps 20–28 cm"
+  },
+  "Mus musculus": {
+    "Habitat": "Habitations, fermes, entrepôts et milieux cultivés",
+    "Régime alimentaire": "Graines, aliments stockés et invertébrés",
+    "Taille moyenne": "Corps 7–10 cm"
+  },
+  "Myocastor coypus": {
+    "Habitat": "Rivières lentes, marais, canaux et étangs",
+    "Régime alimentaire": "Plantes aquatiques, racines et herbes",
+    "Taille moyenne": "Corps 40–65 cm"
+  },
+  "Mustela erminea": {
+    "Habitat": "Prairies, bocages, zones pierreuses et lisières",
+    "Régime alimentaire": "Petits rongeurs, surtout campagnols",
+    "Taille moyenne": "Corps 17–30 cm"
+  },
+  "Mustela lutreola": {
+    "Habitat": "Rivières, marais et boisements rivulaires",
+    "Régime alimentaire": "Petits mammifères, amphibiens, poissons et crustacés",
+    "Taille moyenne": "Corps 28–43 cm"
+  },
+  "Mustela nivalis": {
+    "Habitat": "Prairies, cultures, haies et murets",
+    "Régime alimentaire": "Petits rongeurs, principalement campagnols",
+    "Taille moyenne": "Corps 11–26 cm"
+  },
+  "Mustela putorius": {
+    "Habitat": "Zones humides, bocages et boisements riverains",
+    "Régime alimentaire": "Amphibiens, rongeurs, lapins et oiseaux",
+    "Taille moyenne": "Corps 30–45 cm"
+  },
+  "Martes foina": {
+    "Habitat": "Villages, fermes, vergers, haies et bâtiments",
+    "Régime alimentaire": "Petits mammifères, oiseaux, fruits et invertébrés",
+    "Taille moyenne": "Corps 40–54 cm"
+  },
+  "Martes martes": {
+    "Habitat": "Forêts feuillues et résineuses, vieux arbres creux",
+    "Régime alimentaire": "Rongeurs, oiseaux, fruits et insectes",
+    "Taille moyenne": "Corps 40–55 cm"
+  },
+  "Genetta genetta": {
+    "Habitat": "Boisements, garrigues, ripisylves et milieux rocheux",
+    "Régime alimentaire": "Petits rongeurs, oiseaux et invertébrés",
+    "Taille moyenne": "Corps 43–55 cm"
+  },
+  "Felis silvestris": {
+    "Habitat": "Forêts feuillues, clairières et prairies de lisière",
+    "Régime alimentaire": "Rongeurs, lapins et oiseaux",
+    "Taille moyenne": "Corps 45–65 cm"
+  },
+  "Dama dama": {
+    "Habitat": "Forêts claires, parcs boisés et prairies adjacentes",
+    "Régime alimentaire": "Herbes, feuilles, jeunes pousses et fruits",
+    "Taille moyenne": "Corps 130–175 cm"
+  },
+  "Rupicapra rupicapra": {
+    "Habitat": "Alpages, forêts de montagne et versants rocheux",
+    "Régime alimentaire": "Graminées, plantes herbacées et rameaux",
+    "Taille moyenne": "Corps 110–135 cm"
+  },
+  "Rupicapra pyrenaica": {
+    "Habitat": "Pelouses, éboulis et forêts montagnardes pyrénéennes",
+    "Régime alimentaire": "Herbes, bourgeons et rameaux",
+    "Taille moyenne": "Corps 100–130 cm"
+  },
+  "Capra ibex": {
+    "Habitat": "Parois rocheuses, éboulis et pelouses alpines",
+    "Régime alimentaire": "Graminées et plantes herbacées",
+    "Taille moyenne": "Corps 115–170 cm"
+  },
+  "Ovis gmelini musimon var. corsicana": {
+    "Habitat": "Maquis, forêts claires et reliefs rocheux corses",
+    "Régime alimentaire": "Graminées, feuilles et arbustes",
+    "Taille moyenne": "Corps 110–130 cm"
+  },
+  "Lacerta agilis": {
+    "Habitat": "Pelouses, landes et lisières ensoleillées avec sols meubles",
+    "Taille moyenne": ""
+  },
+  "Vipera seoanei": {
+    "Habitat": "Landes humides, prairies et lisières du Pays basque",
+    "Taille moyenne": ""
+  },
+  "Vipera latastei": {
+    "Habitat": "Garrigues sèches et rocailles méditerranéennes; présence française très marginale à vérifier",
+    "Taille moyenne": ""
+  },
+  "Vipera ursinii": {
+    "Habitat": "Pelouses alpines et subalpines ouvertes du Sud-Est",
+    "Taille moyenne": ""
+  },
+  "Coronella austriaca": {
+    "Habitat": "Landes, pelouses sèches, talus pierreux et lisières",
+    "Taille moyenne": ""
+  },
+  "Coronella girondica": {
+    "Habitat": "Garrigues, murets, rocailles et milieux méditerranéens",
+    "Taille moyenne": ""
+  },
+  "Hierophis viridiflavus": {
+    "Habitat": "Lisières, haies, friches, murets et terrains ensoleillés",
+    "Taille moyenne": ""
+  },
+  "Malpolon monspessulanus": {
+    "Habitat": "Garrigues, maquis et milieux ouverts secs méditerranéens",
+    "Taille moyenne": ""
+  },
+  "Zamenis scalaris": {
+    "Habitat": "Garrigues, friches sèches et milieux pierreux méditerranéens",
+    "Taille moyenne": ""
+  },
+  "Alytes obstetricans": {
+    "Habitat": "Murets, carrières, jardins et milieux pierreux proches de l'eau",
+    "Période favorable à l’observation": "Mars à septembre, surtout nuits douces; mâle portant les œufs sur ses pattes",
+    "Taille": "3,5–5,5 cm"
+  },
+  "Bombina bombina": {
+    "Habitat": "Mares peu profondes, étangs végétalisés et plaines humides",
+    "Période favorable à l’observation": "Avril à août, surtout au printemps",
+    "Taille": "4–5,5 cm"
+  },
+  "Pelobates cultripes": {
+    "Habitat": "Sols sableux meubles, dunes et garrigues près de mares temporaires",
+    "Période favorable à l’observation": "Février à mai, surtout par nuits pluvieuses",
+    "Taille": "6–10 cm"
+  },
+  "Pelodytes punctatus": {
+    "Habitat": "Mares temporaires, fossés et carrières dans des paysages ouverts",
+    "Période favorable à l’observation": "Février à mai; activité surtout nocturne",
+    "Taille": "3,5–5 cm"
+  },
+  "Pelobates fuscus": {
+    "Habitat": "Plaines sableuses, terres cultivées et mares de reproduction",
+    "Période favorable à l’observation": "Mars à mai, nuits douces et humides",
+    "Taille": "5–8 cm"
+  },
+  "Bufotes viridis": {
+    "Habitat": "Milieux ouverts secs, friches, carrières et bassins temporaires",
+    "Période favorable à l’observation": "Avril à juillet, particulièrement de nuit",
+    "Taille": "5–9 cm"
+  },
+  "Pelophylax kl. esculentus": {
+    "Habitat": "Étangs, fossés et berges ensoleillées; complexe hybride de grenouilles vertes",
+    "Période favorable à l’observation": "Avril à septembre; chants surtout de mai à juillet",
+    "Taille": "6–11 cm"
+  },
+  "Pelophylax lessonae": {
+    "Habitat": "Mares et étangs riches en végétation, souvent forestiers",
+    "Période favorable à l’observation": "Mai à août, surtout en période de chant",
+    "Taille": "5–9 cm"
+  },
+  "Pelophylax ridibundus": {
+    "Habitat": "Grandes pièces d'eau, rivières lentes et gravières",
+    "Période favorable à l’observation": "Avril à octobre; chants surtout au printemps et en été",
+    "Taille": "7–14 cm"
+  },
+  "Rana arvalis": {
+    "Habitat": "Prairies humides, tourbières et forêts marécageuses",
+    "Période favorable à l’observation": "Mars à avril lors de la reproduction",
+    "Taille": "5–8 cm"
+  },
+  "Ameiurus melas": {
+    "Habitat": "Eaux lentes, étangs vaseux et canaux",
+    "Habitat et zonation piscicole": "Eaux lentes, étangs vaseux et canaux",
+    "Période de reproduction": "Mai à juillet; eaux chaudes, nid gardé",
+    "Taille moyenne": "20–30 cm"
+  },
+  "Coregonus sp.": {
+    "Habitat": "Lacs profonds et frais, eaux bien oxygénées",
+    "Habitat et zonation piscicole": "Lacs profonds et frais, eaux bien oxygénées",
+    "Période de reproduction": "Automne à hiver selon les formes; taxon non résolu au niveau spécifique",
+    "Taille moyenne": "25–45 cm selon espèce"
+  },
+  "Barbatula barbatula": {
+    "Habitat": "Ruisseaux et rivières à fonds graveleux; zone à truite et ombre",
+    "Habitat et zonation piscicole": "Ruisseaux et rivières à fonds graveleux; zone à truite et ombre",
+    "Période de reproduction": "Avril à juin",
+    "Taille moyenne": "8–12 cm"
+  },
+  "Abramis brama": {
+    "Habitat": "Eaux lentes et riches en nutriments; zones à brème",
+    "Habitat et zonation piscicole": "Eaux lentes et riches en nutriments; zones à brème",
+    "Période de reproduction": "Mai à juillet",
+    "Taille moyenne": "25–45 cm"
+  },
+  "Lepomis gibbosus": {
+    "Habitat": "Étangs et cours d'eau lents; zones à brème",
+    "Habitat et zonation piscicole": "Étangs et cours d'eau lents; zones à brème",
+    "Période de reproduction": "Mai à août; nid défendu par le mâle",
+    "Taille moyenne": "8–15 cm"
+  },
+  "Alburnus alburnus": {
+    "Habitat": "Rivières lentes et lacs de plaine; zones à barbeau et brème",
+    "Habitat et zonation piscicole": "Rivières lentes et lacs de plaine; zones à barbeau et brème",
+    "Période de reproduction": "Mai à août",
+    "Taille moyenne": "10–15 cm"
+  },
+  "Leuciscus leuciscus": {
+    "Habitat": "Rivières courantes, eaux oxygénées; zones à ombre et barbeau",
+    "Habitat et zonation piscicole": "Rivières courantes, eaux oxygénées; zones à ombre et barbeau",
+    "Période de reproduction": "Mars à mai",
+    "Taille moyenne": "15–25 cm"
+  },
+  "Procambarus clarkii": {
+    "Habitat": "Marais, fossés, étangs et eaux temporaires",
+    "Habitat et zonation piscicole": "Marais, fossés, étangs et eaux temporaires",
+    "Période de reproduction": "Reproduction variable, souvent été–automne",
+    "Taille moyenne": "7–12 cm"
+  },
+  "Austropotamobius pallipes": {
+    "Habitat": "Petits cours d'eau frais, propres et pierreux",
+    "Habitat et zonation piscicole": "Petits cours d'eau frais, propres et pierreux",
+    "Période de reproduction": "Accouplement automnal, éclosion au printemps",
+    "Taille moyenne": "7–10 cm"
+  },
+  "Pacifastacus leniusculus": {
+    "Habitat": "Rivières, lacs et étangs, sous blocs et berges",
+    "Habitat et zonation piscicole": "Rivières, lacs et étangs, sous blocs et berges",
+    "Période de reproduction": "Accouplement automnal, éclosion au printemps",
+    "Taille moyenne": "10–16 cm"
+  },
+  "Orconectes limosus": {
+    "Habitat": "Canaux, rivières lentes et étangs vaseux",
+    "Habitat et zonation piscicole": "Canaux, rivières lentes et étangs vaseux",
+    "Période de reproduction": "Accouplement automnal, éclosion au printemps",
+    "Taille moyenne": "7–10 cm"
+  },
+  "Astacus astacus": {
+    "Habitat": "Lacs et cours d'eau propres, fonds pierreux",
+    "Habitat et zonation piscicole": "Lacs et cours d'eau propres, fonds pierreux",
+    "Période de reproduction": "Accouplement automnal, éclosion au printemps",
+    "Taille moyenne": "10–15 cm"
+  },
+  "Alopochen aegyptiaca": {
+    "Habitat": "Plans d'eau, parcs, prairies et berges",
+    "Nicheur en France": "Nicheur localement, espèce introduite établie",
+    "Taille": "63–73 cm"
+  },
+  "Anas strepera": {
+    "Habitat": "Étangs peu profonds et marais à végétation dense",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "46–56 cm"
+  },
+  "Anas acuta": {
+    "Habitat": "Marais, prairies inondées et grands étangs",
+    "Nicheur en France": "Nicheur rare et localisé en France",
+    "Taille": "51–76 cm"
+  },
+  "Anas clypeata": {
+    "Habitat": "Étangs peu profonds, marais et prairies humides",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "44–52 cm"
+  },
+  "Anas penelope": {
+    "Habitat": "Prairies humides, estuaires et grands plans d'eau",
+    "Nicheur en France": "Nicheur très rare en France; surtout hivernant",
+    "Taille": "45–51 cm"
+  },
+  "Anas crecca": {
+    "Habitat": "Marais, étangs peu profonds et roselières",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "34–38 cm"
+  },
+  "Anas querquedula": {
+    "Habitat": "Marais herbacés et prairies inondées",
+    "Nicheur en France": "Nicheur localisé; migrateur transsaharien",
+    "Taille": "37–41 cm"
+  },
+  "Aythya ferina": {
+    "Habitat": "Grands étangs et lacs à végétation aquatique",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "42–49 cm"
+  },
+  "Netta rufina": {
+    "Habitat": "Lacs et étangs riches en végétation submergée",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "53–57 cm"
+  },
+  "Aythya fuligula": {
+    "Habitat": "Lacs, étangs et gravières",
+    "Nicheur en France": "Nicheur en France, localement",
+    "Taille": "40–47 cm"
+  },
+  "Bucephala clangula": {
+    "Habitat": "Lacs, grands cours d'eau et forêts riveraines",
+    "Nicheur en France": "Nicheur exceptionnel en France; surtout hivernant",
+    "Taille": "40–48 cm"
+  },
+  "Mergus merganser": {
+    "Habitat": "Lacs et rivières poissonneuses, boisements riverains",
+    "Nicheur en France": "Nicheur localisé, surtout dans l'Est",
+    "Taille": "58–66 cm"
+  },
+  "Tachybaptus ruficollis": {
+    "Habitat": "Petits étangs et mares à végétation riveraine",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "23–29 cm"
+  },
+  "Phalacrocorax carbo": {
+    "Habitat": "Lacs, fleuves, estuaires et littoral",
+    "Nicheur en France": "Nicheur en colonies en France",
+    "Taille": "77–94 cm"
+  },
+  "Ixobrychus minutus": {
+    "Habitat": "Roselières denses des étangs et marais",
+    "Nicheur en France": "Nicheur rare en France",
+    "Taille": "33–38 cm"
+  },
+  "Nycticorax nycticorax": {
+    "Habitat": "Boisements humides et colonies près de l'eau",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "58–65 cm"
+  },
+  "Ardea purpurea": {
+    "Habitat": "Grandes roselières et marais peu profonds",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "70–90 cm"
+  },
+  "Ciconia nigra": {
+    "Habitat": "Vastes forêts tranquilles près de cours d'eau",
+    "Nicheur en France": "Nicheur rare en France",
+    "Taille": "95–100 cm"
+  },
+  "Circus aeruginosus": {
+    "Habitat": "Roselières, marais et cultures humides",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "43–55 cm"
+  },
+  "Circus pygargus": {
+    "Habitat": "Cultures céréalières, landes et prairies ouvertes",
+    "Nicheur en France": "Nicheur en France, migrateur",
+    "Taille": "39–50 cm"
+  },
+  "Rallus aquaticus": {
+    "Habitat": "Roselières et végétation dense des marais",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "23–28 cm"
+  },
+  "Gallinula chloropus": {
+    "Habitat": "Mares, canaux et étangs à végétation dense",
+    "Nicheur en France": "Nicheur commun en France",
+    "Taille": "30–38 cm"
+  },
+  "Recurvirostra avosetta": {
+    "Habitat": "Lagunes salées, salins et vasières littorales",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "42–46 cm"
+  },
+  "Himantopus himantopus": {
+    "Habitat": "Marais peu profonds, salins et lagunes",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "33–36 cm"
+  },
+  "Burhinus oedicnemus": {
+    "Habitat": "Cultures sèches, gravières et pelouses rases",
+    "Nicheur en France": "Nicheur en France, migrateur partiel",
+    "Taille": "40–44 cm"
+  },
+  "Charadrius dubius": {
+    "Habitat": "Grèves de rivières, carrières et bancs de graviers",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "15–18 cm"
+  },
+  "Vanellus vanellus": {
+    "Habitat": "Prairies humides et cultures ouvertes",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "28–31 cm"
+  },
+  "Gallinago gallinago": {
+    "Habitat": "Tourbières, marais et prairies détrempées",
+    "Nicheur en France": "Nicheur rare et localisé en France",
+    "Taille": "25–27 cm"
+  },
+  "Numenius arquata": {
+    "Habitat": "Prairies humides et landes ouvertes",
+    "Nicheur en France": "Nicheur rare et localisé en France",
+    "Taille": "50–60 cm"
+  },
+  "Tringa totanus": {
+    "Habitat": "Prés salés, marais littoraux et prairies humides",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "27–29 cm"
+  },
+  "Tringa ochropus": {
+    "Habitat": "Berges, marais et eaux douces forestières",
+    "Nicheur en France": "Non nicheur régulier en France; migrateur et hivernant",
+    "Taille": "21–24 cm"
+  },
+  "Actitis hypoleucos": {
+    "Habitat": "Berges caillouteuses de rivières et lacs",
+    "Nicheur en France": "Nicheur localisé en France",
+    "Taille": "18–20 cm"
+  },
+  "Larus michahellis": {
+    "Habitat": "Littoral, falaises, îlots et toits urbains",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "52–58 cm"
+  },
+  "Merops apiaster": {
+    "Habitat": "Falaises meubles, berges sableuses et milieux ouverts",
+    "Nicheur en France": "Nicheur en France, migrateur",
+    "Taille": "25–29 cm"
+  },
+  "Motacilla cinerea": {
+    "Habitat": "Ruisseaux rapides, rivières et ponts",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "17–20 cm"
+  },
+  "Acrocephalus scirpaceus": {
+    "Habitat": "Roselières et végétation palustre dense",
+    "Nicheur en France": "Nicheur en France, migrateur",
+    "Taille": "12–14 cm"
+  },
+  "Emberiza schoeniclus": {
+    "Habitat": "Roselières, marais et prairies humides",
+    "Nicheur en France": "Nicheur en France",
+    "Taille": "13–16 cm"
+  }
+}

@@ -1,0 +1,2508 @@
+[
+  {
+    "id": "terrestre-chiropt-res-1",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Grand rhinolophe",
+    "latin": "Rhinolophus ferrumequinum",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grande taille, feuille nasale en fer à cheval et selle à sommet arrondi; au repos les ailes enveloppent partiellement le corps.",
+      "Se distingue du Petit rhinolophe par sa taille nettement supérieure; mesures nécessaires."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-2",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Petit rhinolophe",
+    "latin": "Rhinolophus hipposideros",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit rhinolophe, suspendu au repos presque entièrement enveloppé dans ses ailes.",
+      "La taille et la forme de la selle nasale le distinguent du Grand rhinolophe; vue rapprochée nécessaire."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-3",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Murin de Bechstein",
+    "latin": "Myotis bechsteinii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oreilles exceptionnellement longues et larges, dépassant nettement le museau lorsqu'elles sont rabattues.",
+      "Tragus fin et long; distinction d'autres murins par examen détaillé."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-4",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Petit murin",
+    "latin": "Myotis blythii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand murin aux oreilles relativement étroites et au museau moins massif que le Grand murin.",
+      "Espèce jumelle du Grand murin : critères externes variables, mensurations ou analyses souvent nécessaires."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-5",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Murin de Daubenton",
+    "latin": "Myotis daubentonii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Pieds relativement grands et oreilles courtes; ventre clair nettement contrasté avec le dos brun.",
+      "Chasse au ras de l'eau; identification sûre requiert parfois examen des pieds et du tragus."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-6",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Grand murin",
+    "latin": "Myotis myotis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand Myotis aux larges oreilles et ventre blanc grisâtre; dos brun-gris.",
+      "Le Petit murin lui ressemble fortement : photo seule rarement suffisante."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-7",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Pipistrelle commune",
+    "latin": "Pipistrellus pipistrellus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petite chauve-souris brune aux oreilles courtes et triangulaires, tragus arrondi.",
+      "Pipistrelle pygmée presque indiscernable à vue : cris ultrasonores nécessaires."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-8",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Grande Noctule",
+    "latin": "Nyctalus lasiopterus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Noctule exceptionnellement grande, longues ailes étroites et pelage brun-roux uniforme.",
+      "Distinguer de la Noctule commune par taille et mesures; photographie isolée insuffisante."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-9",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Noctule commune",
+    "latin": "Nyctalus noctula",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grandes ailes longues et étroites, oreilles arrondies et pelage brun-roux lustré.",
+      "Oreilles courtes en forme de champignon; distinguer de Grande Noctule par mensurations."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-10",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Sérotine commune",
+    "latin": "Eptesicus serotinus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Chauve-souris robuste, museau sombre et large, oreilles courtes triangulaires.",
+      "Dos brun foncé, ventre jaunâtre; silhouette moins effilée que les noctules."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-11",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Barbastelle d’Europe",
+    "latin": "Barbastella barbastellus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Museau très court et aplati, oreilles larges se rejoignant au sommet du front.",
+      "Pelage presque noir avec pointes de poils argentées sur le dos."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-12",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Oreillard gris",
+    "latin": "Plecotus austriacus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oreilles démesurément longues et réunies à la base; museau gris sombre.",
+      "Masque facial foncé et ventre gris; distinguer de l'Oreillard roux par examen spécialisé."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-13",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Minioptère de Schreibers",
+    "latin": "Miniopterus schreibersii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Front bombé, museau très court et oreilles triangulaires courtes.",
+      "Ailes longues et étroites, silhouette caractéristique en vol; pelage gris brun."
+    ]
+  },
+  {
+    "id": "terrestre-chiropt-res-14",
+    "option": "terrestre",
+    "category": "Chiroptères",
+    "common": "Molosse de Cestoni",
+    "latin": "Tadarida teniotis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grandes oreilles dirigées vers l'avant et jointives, lèvres plissées.",
+      "Longue queue dépassant nettement la membrane interfémorale, contrairement à la plupart des chauves-souris."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-15",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Hérisson d’Europe",
+    "latin": "Erinaceus europaeus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dos et flancs supérieurs couverts de piquants brun et crème, face pointue sans piquants.",
+      "Petites oreilles arrondies et pattes courtes; ne pas confondre avec un porc-épic."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-16",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Crossope aquatique",
+    "latin": "Neomys fodiens",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Musaraigne au dos presque noir et ventre blanc nettement délimité.",
+      "Frange de poils natatoires aux pieds et sous la queue; museau long très pointu."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-17",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Taupe d’Europe",
+    "latin": "Talpa europaea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps cylindrique à fourrure noire veloutée et yeux minuscules.",
+      "Mains antérieures très larges, tournées vers l'extérieur, adaptées au fouissage."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-18",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Lièvre d’Europe",
+    "latin": "Lepus europaeus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très longues oreilles à extrémité noire et longues pattes postérieures.",
+      "Silhouette haute et élancée; plus grand que le lapin de garenne."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-19",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Lapin de garenne",
+    "latin": "Oryctolagus cuniculus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oreilles proportionnellement plus courtes que celles du lièvre, sans pointe noire marquée.",
+      "Corps trapu, petite queue blanche visible en fuite; vit souvent en colonies."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-20",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Ecureuil roux",
+    "latin": "Sciurus vulgaris",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Longue queue très touffue et oreilles parfois ornées de pinceaux de poils.",
+      "Pelage roux à brun sombre variable; ventre nettement blanc."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-21",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Marmotte des Alpes",
+    "latin": "Marmota marmota",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Gros rongeur trapu, oreilles courtes et queue touffue relativement courte.",
+      "Pelage brun gris, grandes incisives; silhouette de prairie alpine."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-22",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Castor d’Eurasie",
+    "latin": "Castor fiber",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Queue large, plate et écailleuse, en forme de palette.",
+      "Grandes pattes arrière palmées; le ragondin a une queue cylindrique."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-23",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Loir gris",
+    "latin": "Glis glis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand gliridé gris argenté au ventre blanc, grands yeux sombres.",
+      "Queue longue très touffue et uniformément grise, contrairement au Lérot."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-24",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Muscardin",
+    "latin": "Muscardinus avellanarius",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit gliridé à pelage roux doré uniforme et grands yeux noirs.",
+      "Queue uniformément velue, sans masque noir autour des yeux."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-25",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Lérot",
+    "latin": "Eliomys quercinus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Masque noir très contrasté entourant les yeux et allant vers les oreilles.",
+      "Queue touffue terminée par un pinceau noir et blanc."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-26",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Grand hamster",
+    "latin": "Cricetus cricetus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps trapu avec ventre noir et grandes taches claires sur les flancs.",
+      "Dos brun-roux, joues blanches; silhouette sans longue queue apparente."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-27",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Campagnol roussâtre",
+    "latin": "Clethrionomys glareolus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dos brun roux, flancs plus gris et ventre clair.",
+      "Queue relativement longue pour un campagnol; oreilles visibles dans le pelage."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-28",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Campagnol amphibie",
+    "latin": "Arvicola sapidus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand campagnol brun sombre au museau arrondi, petites oreilles cachées.",
+      "Queue assez longue, non aplatie; ne pas confondre avec le Rat musqué, bien plus gros."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-29",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Campagnol des champs",
+    "latin": "Microtus arvalis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit campagnol trapu brun gris, museau court et oreilles peu apparentes.",
+      "Queue courte, contrairement aux mulots à grandes oreilles et longue queue."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-30",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Rat musqué",
+    "latin": "Ondatra zibethicus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Rongeur aquatique brun sombre, tête arrondie et petites oreilles.",
+      "Queue longue comprimée latéralement, non plate comme celle du castor."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-31",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Mulot à collier",
+    "latin": "Apodemus flavicollis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mulot à grandes oreilles et grands yeux, dos brun fauve.",
+      "Tache jaune pectorale souvent prolongée en collier sur la poitrine; variable selon individus."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-32",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Rat des moissons",
+    "latin": "Micromys minutus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Minuscule rongeur fauve orangé, ventre blanc nettement délimité.",
+      "Queue fine préhensile utilisée pour grimper sur les tiges."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-33",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Rat surmulot",
+    "latin": "Rattus norvegicus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand rat brun gris, museau plutôt émoussé et petites oreilles.",
+      "Queue généralement plus courte que le corps tête comprise, contrairement au Rat noir."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-34",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Souris grise",
+    "latin": "Mus musculus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit muridé gris brun à museau pointu et oreilles arrondies visibles.",
+      "Queue fine écailleuse presque aussi longue que le corps; plus petite qu'un rat."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-35",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Ragondin",
+    "latin": "Myocastor coypus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand rongeur aquatique à museau carré et longues vibrisses blanches.",
+      "Incisives orange et queue longue cylindrique, non plate comme chez le castor."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-36",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Loup",
+    "latin": "Canis lupus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand canidé haut sur pattes, poitrine étroite et queue touffue généralement pendante.",
+      "Oreilles relativement courtes et museau puissant; distinguer des chiens par ensemble de critères."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-37",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Renard roux",
+    "latin": "Vulpes vulpes",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Museau effilé, grandes oreilles triangulaires et pelage souvent roux.",
+      "Queue très touffue fréquemment terminée de blanc."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-38",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Ours brun",
+    "latin": "Ursus arctos",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps massif avec bosse musculaire au garrot et petites oreilles rondes.",
+      "Museau allongé et griffes longues, non rétractiles."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-39",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Hermine",
+    "latin": "Mustela erminea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mustélidé fin, brun dessus et blanc dessous en été.",
+      "Extrémité de la queue toujours noire, y compris en pelage hivernal blanc."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-40",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Vison d’Europe",
+    "latin": "Mustela lutreola",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit mustélidé brun foncé avec blanc sur lèvre supérieure ET inférieure.",
+      "Le Vison d'Amérique a généralement le blanc surtout sur la lèvre inférieure; caractères variables."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-41",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Belette d’Europe",
+    "latin": "Mustela nivalis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit mustélidé allongé, brun dessus et blanc dessous.",
+      "Queue courte sans pinceau terminal noir, contrairement à l'Hermine."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-42",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Putois d’Europe",
+    "latin": "Mustela putorius",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Masque facial clair et sombre contrasté, pelage brun noir à sous-poil jaunâtre.",
+      "Oreilles bordées de clair; silhouette plus trapue que celle des visons."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-43",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Fouine",
+    "latin": "Martes foina",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Bavette blanche souvent fourchue descendant sur les pattes antérieures.",
+      "Truffe rose et oreilles bordées de clair; Martre des pins à bavette plutôt jaune."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-44",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Martre des pins",
+    "latin": "Martes martes",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Bavette généralement jaune crème, souvent arrondie, sur la gorge.",
+      "Truffe sombre et grandes oreilles arrondies à bord clair; variations possibles."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-45",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Blaireau européen",
+    "latin": "Meles meles",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Tête blanche traversée de deux larges bandes noires longitudinales.",
+      "Corps très trapu et bas, petites oreilles et courte queue."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-46",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Loutre d’Europe",
+    "latin": "Lutra lutra",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps fuselé brun, tête aplatie et petites oreilles rondes.",
+      "Queue épaisse à la base, progressivement effilée; doigts palmés."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-47",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Genette commune",
+    "latin": "Genetta genetta",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Pelage gris clair ponctué de nombreuses taches noires alignées.",
+      "Très longue queue annelée noir et blanc, museau pointu."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-48",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Chat forestier",
+    "latin": "Felis silvestris",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Queue épaisse cylindrique, annelée de noir et terminée par un bout noir arrondi.",
+      "Raie dorsale sombre s'arrêtant avant la queue; hybridation avec chat domestique possible."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-49",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Lynx boréal",
+    "latin": "Lynx lynx",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oreilles triangulaires surmontées de longs pinceaux noirs et favoris faciaux.",
+      "Queue très courte à extrémité entièrement noire, grandes pattes."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-50",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Sanglier",
+    "latin": "Sus scrofa",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Museau allongé terminé par un groin discoïde et corps massif.",
+      "Pelage hérissé brun noir; marcassins rayés longitudinalement."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-51",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Cerf élaphe",
+    "latin": "Cervus elaphus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand cervidé aux longues pattes, mâle portant de grands bois ramifiés.",
+      "Croupe beige jaunâtre et queue courte; femelle beaucoup plus grande qu'une chevrette."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-52",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Daim européen",
+    "latin": "Dama dama",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Cervidé à robe souvent tachetée de blanc et longue queue bordée de noir.",
+      "Mâle adulte à bois palmés, contrairement au cerf élaphe."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-53",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Chevreuil européen",
+    "latin": "Capreolus capreolus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit cervidé au miroir fessier clair très visible, queue quasi invisible.",
+      "Mâle aux bois courts portant au maximum trois pointes par merrain habituellement."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-54",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Chamois des Alpes",
+    "latin": "Rupicapra rupicapra",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Face claire avec deux bandes noires des oreilles au museau.",
+      "Petites cornes noires recourbées en crochet vers l'arrière chez les deux sexes."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-55",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Isard des Pyrénées",
+    "latin": "Rupicapra pyrenaica",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Chamois pyrénéen à bandes faciales sombres et cornes fines en crochet.",
+      "Pelage hivernal avec plages claires marquées aux épaules; distinction du Chamois alpin surtout géographique."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-56",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Bouquetin des Alpes",
+    "latin": "Capra ibex",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle aux très grandes cornes épaisses recourbées vers l'arrière, à bourrelets transversaux.",
+      "Barbiche chez le mâle et corps massif; femelle à cornes plus fines."
+    ]
+  },
+  {
+    "id": "terrestre-mammif-res-57",
+    "option": "terrestre",
+    "category": "Mammifères",
+    "common": "Mouflon de Corse",
+    "latin": "Ovis gmelini musimon var. corsicana",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle portant de grosses cornes spiralées latéralement et pelage brun.",
+      "Selle dorsale blanchâtre fréquente chez les mâles adultes; femelle à cornes petites ou absentes."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-58",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Lézard à deux raies",
+    "latin": "Lacerta bilineata",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand lézard vert, mâle souvent à gorge bleu vif au printemps.",
+      "Femelle souvent avec deux bandes dorsolatérales claires; distinguer du Lézard des souches par taille et coloration."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-59",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Lézard des souches",
+    "latin": "Lacerta agilis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps trapu et tête courte; mâle aux flancs vert vif en période nuptiale.",
+      "Dos généralement brun avec ocelles ou motifs sombres bordés de clair."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-60",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Lézard ocellé",
+    "latin": "Timon lepidus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand lézard robuste à flancs portant de grands ocelles bleus.",
+      "Dos verdâtre à motifs noirs réticulés; taille supérieure aux autres lézards locaux."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-61",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Lézard vivipare",
+    "latin": "Zootoca vivipara",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit lézard brun à tête courte, souvent avec bande dorsale sombre.",
+      "Écailles dorsales assez grandes et silhouette moins aplatie que le Lézard des murailles."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-62",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Lézard des murailles",
+    "latin": "Podarcis muralis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Lézard fin à longue queue et tête relativement aplatie.",
+      "Flancs souvent réticulés de sombre et clair; doigts longs adaptés aux murs."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-63",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Orvet fragile",
+    "latin": "Anguis fragilis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Lézard sans pattes, corps lisse et brillant, tête peu distincte du cou.",
+      "Paupières mobiles et possibilité d'autotomie de la queue; à distinguer des serpents."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-64",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Vipère aspic",
+    "latin": "Vipera aspis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Vipère trapue à tête triangulaire et museau souvent relevé.",
+      "Dessins dorsaux en barres ou zigzags discontinus; pupille verticale."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-65",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Vipère péliade",
+    "latin": "Vipera berus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Museau peu retroussé, tête relativement plate et zigzag dorsal souvent continu.",
+      "Écaille rostrale basse et pupille verticale; coloration variable."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-66",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Vipère de Seoane",
+    "latin": "Vipera seoanei",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Vipère de petite taille à tête peu distincte et motifs dorsaux très variables.",
+      "Présence dans le sud-ouest pyrénéen; distinction de la péliade délicate sans examen détaillé."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-67",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Vipère de Lataste",
+    "latin": "Vipera latastei",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Museau portant une protubérance nettement relevée, plus marquée que chez l'aspic.",
+      "Zigzag dorsal foncé souvent net; répartition méditerranéenne ibérique."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-68",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Vipère d'Orsini",
+    "latin": "Vipera ursinii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petite vipère trapue à museau court, zigzag dorsal sombre fin.",
+      "Tête peu élargie, habitat de pelouses montagnardes; identification spécialisée."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-69",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre à collier",
+    "latin": "Natrix helvetica",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Collier jaunâtre ou blanchâtre derrière la tête, souvent bordé de noir.",
+      "Flancs barrés de marques noires verticales; collier parfois estompé chez l'adulte."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-70",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre vipérine",
+    "latin": "Natrix maura",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Motif dorsal en zigzag et taches latérales évoquant une vipère.",
+      "Pupille ronde et tête plus allongée; fréquente au bord de l'eau."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-71",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Coronelle lisse",
+    "latin": "Coronella austriaca",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit serpent brun gris à bande sombre passant par l'œil.",
+      "Deux rangées de taches dorsales et écailles lisses; pupille ronde."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-72",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Coronelle girondine",
+    "latin": "Coronella girondica",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Serpent mince avec dessin sombre en bride reliant les yeux sur la tête.",
+      "Ventre souvent à damier noir et clair, contrairement à la Coronelle lisse."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-73",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre d'Esculape",
+    "latin": "Zamenis longissimus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand serpent élancé brun olive uniforme, ventre jaune pâle.",
+      "Écailles lisses et petites marques claires aux commissures des lèvres."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-74",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre verte et jaune",
+    "latin": "Hierophis viridiflavus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Serpent très vif, adulte noir verdâtre moucheté ou strié de jaune.",
+      "Queue longue et corps élancé; juvéniles grisâtres à motifs différents."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-75",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre de Montpellier",
+    "latin": "Malpolon monspessulanus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand serpent à tête longue, sourcil saillant donnant un regard sévère.",
+      "Adulte souvent vert olive assez uniforme, avec grande taille et corps robuste."
+    ]
+  },
+  {
+    "id": "terrestre-squamates-76",
+    "option": "terrestre",
+    "category": "Squamates",
+    "common": "Couleuvre à échelons",
+    "latin": "Zamenis scalaris",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Juvénile à dessin dorsal en échelle avec barres transversales.",
+      "Adulte à deux lignes sombres longitudinales sur dos brun clair."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-77",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Salamandre tachetée",
+    "latin": "Salamandra salamandra",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Amphibien noir brillant à taches ou bandes jaune vif irrégulières.",
+      "Corps robuste, queue arrondie et glandes parotoïdes proéminentes."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-78",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Triton alpestre",
+    "latin": "Ichthyosaura alpestris",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle nuptial bleu gris à flancs ponctués, ventre orange vif sans taches.",
+      "Petite crête basse; femelle marbrée avec ventre orange uni."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-79",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Triton palmé",
+    "latin": "Lissotriton helveticus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit triton, mâle nuptial avec palmures noires aux pieds arrière.",
+      "Extrémité de la queue prolongée d'un filament; gorge généralement non tachetée."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-80",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Triton ponctué",
+    "latin": "Lissotriton vulgaris",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle nuptial avec crête dorsale ondulée et grandes taches rondes sombres.",
+      "Gorge tachetée, contrairement au Triton palmé souvent à gorge claire."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-81",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Triton crêté",
+    "latin": "Triturus cristatus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand triton sombre à peau granuleuse et ventre orange tacheté de noir.",
+      "Mâle nuptial à haute crête dentelée interrompue à la base de la queue."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-82",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Triton marbré",
+    "latin": "Triturus marmoratus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dos vert vif marbré de noir, ventre sombre à petites taches claires.",
+      "Femelle et jeunes souvent avec ligne vertébrale orange; mâle à crête barrée."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-83",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Crapaud accoucheur",
+    "latin": "Alytes obstetricans",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit crapaud gris brun aux yeux dorés à pupille verticale.",
+      "Mâle pouvant porter des cordons d'œufs enroulés autour des pattes arrière."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-84",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Sonneur à ventre jaune",
+    "latin": "Bombina variegata",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dos gris brun verruqueux, ventre jaune vif marbré de noir.",
+      "Pupille en forme de cœur; motif ventral jaune plus étendu que chez le Sonneur à ventre rouge."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-85",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Sonneur à ventre rouge",
+    "latin": "Bombina bombina",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Ventre noir ponctué de rouge orangé, dos gris brun.",
+      "Pupille en cœur; taches rouges généralement moins étendues que le jaune chez B. variegata."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-86",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Pélobate cultripède",
+    "latin": "Pelobates cultripes",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Crapaud trapu à pupille verticale et grands yeux saillants.",
+      "Éperon noir tranchant sous chaque pied postérieur, utilisé pour s'enfouir."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-87",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Pélodyte ponctué",
+    "latin": "Pelodytes punctatus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit amphibien élancé, peau claire parsemée de petites taches vertes.",
+      "Yeux saillants à pupille verticale; allure plus fine qu'un crapaud."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-88",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Pélobate brun",
+    "latin": "Pelobates fuscus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Crapaud fouisseur à pupille verticale et taches brunes sur fond gris beige.",
+      "Tubercule métatarsien dur en pelle; distinguer du cultripède par l'éperon et la répartition."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-89",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Crapaud commun",
+    "latin": "Bufo bufo",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Gros crapaud brun verruqueux aux glandes parotoïdes allongées.",
+      "Iris cuivré à pupille horizontale; absence de bande dorsale jaune nette."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-90",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Crapaud calamite",
+    "latin": "Epidalea calamita",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Ligne médiane dorsale jaune pâle souvent très visible.",
+      "Pattes arrière relativement courtes, déplacement fréquemment en course plutôt qu'en bonds."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-91",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Crapaud vert",
+    "latin": "Bufotes viridis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Fond dorsal gris clair ou crème portant des taches vertes irrégulières.",
+      "Petites verrues souvent rougeâtres; glandes parotoïdes peu proéminentes."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-92",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille verte",
+    "latin": "Pelophylax kl. esculentus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grenouille aquatique verte ou brune, souvent à ligne dorsale claire.",
+      "Hybride du complexe des grenouilles vertes : distinction visuelle fiable souvent impossible sans chant ou mesures."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-93",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille verte de Lessona",
+    "latin": "Pelophylax lessonae",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petite grenouille verte aux flancs souvent vert vif et museau court.",
+      "Sacs vocaux blancs chez le mâle; différenciation des hybrides requiert chant et critères combinés."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-94",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille rieuse",
+    "latin": "Pelophylax ridibundus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grande grenouille verte au museau assez pointu et longues pattes arrière.",
+      "Mâle aux sacs vocaux gris foncé; chant puissant et ricanant, utile pour confirmation."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-95",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille rousse",
+    "latin": "Rana temporaria",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grenouille brune à masque temporal sombre et museau plutôt arrondi.",
+      "Tubercule métatarsien petit et pattes postérieures relativement courtes."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-96",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille des champs",
+    "latin": "Rana arvalis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grenouille brune au museau pointu et ventre souvent clair non tacheté.",
+      "Mâle pouvant devenir bleu en reproduction; grand tubercule métatarsien."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-97",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Grenouille agile",
+    "latin": "Rana dalmatina",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grenouille brune élancée au museau pointu et très longues pattes arrière.",
+      "Tympan grand proche de l'œil; talon dépassant souvent le museau quand patte repliée."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-98",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Rainette verte",
+    "latin": "Hyla arborea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petite rainette verte à disques adhésifs et bande sombre de la narine à l'aine.",
+      "La bande latérale forme habituellement une boucle remontante près de l'aine."
+    ]
+  },
+  {
+    "id": "aquatique-batraciens-99",
+    "option": "aquatique",
+    "category": "Batraciens",
+    "common": "Rainette méridionale",
+    "latin": "Hyla meridionalis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Rainette verte à bande sombre limitée surtout à la tête, s'arrêtant près de l'épaule.",
+      "Absence de longue bande sombre sur le flanc, contrairement à la Rainette verte."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-100",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Poisson chat",
+    "latin": "Ameiurus melas",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit siluriforme brun noir à tête large et quatre paires de barbillons.",
+      "Nageoire adipeuse présente; fortes épines aux nageoires dorsale et pectorales."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-101",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ombre commun",
+    "latin": "Thymallus thymallus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grande nageoire dorsale haute en voile, souvent tachetée de pourpre.",
+      "Petite bouche et corps argenté; silhouette très différente de la truite."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-102",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Corégone",
+    "latin": "Coregonus sp.",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Poisson salmoniforme argenté à petite bouche et nageoire adipeuse.",
+      "Identification à l'espèce impossible ici : « Coregonus sp. » désigne un genre."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-103",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Truite commune",
+    "latin": "Salmo trutta",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps fuselé avec nageoire adipeuse, flancs souvent ponctués de rouge et de noir.",
+      "Grande bouche dépassant vers l'arrière de l'œil; robe très variable."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-104",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Silure glane",
+    "latin": "Silurus glanis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand poisson sans écailles à tête aplatie et large bouche.",
+      "Deux longs barbillons supérieurs et quatre petits inférieurs; longue nageoire anale."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-105",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Brochet",
+    "latin": "Esox lucius",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps très allongé et museau aplati en bec de canard.",
+      "Nageoires dorsale et anale reculées près de la queue, robe marbrée."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-106",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Carpe",
+    "latin": "Cyprinus carpio",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps haut et robuste, longue nageoire dorsale et bouche protractile.",
+      "Deux paires de barbillons aux commissures; écaillure variable selon variétés."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-107",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Loche franche",
+    "latin": "Barbatula barbatula",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit poisson benthique allongé à six barbillons autour de la bouche.",
+      "Corps marbré brun, bouche infère et nageoires arrondies."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-108",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Barbeau",
+    "latin": "Barbus barbus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Poisson fuselé de rivière à bouche infère portant quatre barbillons.",
+      "Lèvre inférieure charnue et nageoire dorsale courte à rayon épineux."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-109",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Goujon",
+    "latin": "Gobio gobio",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit cyprinidé au corps allongé, une paire de barbillons aux commissures.",
+      "Rangée de taches sombres le long des flancs, bouche infère."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-110",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Tanche",
+    "latin": "Tinca tinca",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps épais vert olive, très petites écailles incluses dans une peau visqueuse.",
+      "Nageoires arrondies et un petit barbillon à chaque commissure."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-111",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Brème commune",
+    "latin": "Abramis brama",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps très haut et comprimé latéralement, nageoire anale très longue.",
+      "Petite bouche protractile orientée vers le bas, nageoires gris sombre."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-112",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Vairon",
+    "latin": "Phoxinus phoxinus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit poisson fuselé à petites écailles et ligne latérale souvent incomplète.",
+      "Flancs avec marques sombres et ventre rougeâtre chez le mâle reproducteur."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-113",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Gardon",
+    "latin": "Rutilus rutilus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Iris souvent rouge orangé et nageoires ventrales rougeâtres.",
+      "Nageoire dorsale située approximativement à l'aplomb des pelviennes; bouche terminale."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-114",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Chevaine",
+    "latin": "Squalius cephalus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grosse tête large, bouche terminale et corps cylindrique robuste.",
+      "Écailles à bord sombre formant un dessin réticulé sur les flancs."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-115",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Chabot",
+    "latin": "Cottus gobio",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Tête très large et aplatie, grandes nageoires pectorales en éventail.",
+      "Corps sans écailles apparentes et deux nageoires dorsales; vit posé sur le fond."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-116",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Perche",
+    "latin": "Perca fluviatilis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Deux nageoires dorsales dont la première épineuse, bandes noires verticales.",
+      "Nageoires pelviennes et anale souvent orangées ou rouges."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-117",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Perche soleil",
+    "latin": "Lepomis gibbosus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit poisson très haut de corps aux couleurs vives bleu vert et orange.",
+      "Opercule portant une tache noire et rouge, nageoire dorsale épineuse."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-118",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Sandre",
+    "latin": "Sander lucioperca",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps allongé, deux dorsales séparées et yeux vitreux réfléchissants.",
+      "Canines bien développées dans la bouche; flancs à bandes verticales discrètes."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-119",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Lamproie de Planer",
+    "latin": "Lampetra planeri",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps anguilliforme sans nageoires paires et bouche circulaire en ventouse.",
+      "Sept orifices branchiaux de chaque côté de la tête; petite taille adulte."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-120",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Apron du Rhône",
+    "latin": "Zingel asper",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit percidé fuselé à tête aplatie, corps brun à bandes sombres transversales.",
+      "Deux dorsales séparées et yeux placés haut; poisson benthique du Rhône."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-121",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ablette",
+    "latin": "Alburnus alburnus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Poisson argenté très comprimé, bouche nettement tournée vers le haut.",
+      "Nageoire anale relativement longue, dos bleu verdâtre."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-122",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Vandoise commune",
+    "latin": "Leuciscus leuciscus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Poisson argenté élancé à bouche petite et terminale ou légèrement infère.",
+      "Nageoires généralement grisâtres, museau plus pointu que chez le chevaine."
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-123",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ecrevisse de Louisiane",
+    "latin": "Procambarus clarkii",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Tubercules rouges sur les pinces",
+      "Un ou deux ergots internes sur le carpopodite",
+      "Sillons branchio-cardiaques se rejoignant en un point",
+      "Aspérités sur le céphalothorax"
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-124",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ecrevisse à pattes blanches",
+    "latin": "Austropotamobius pallipes",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Une seule crête postorbitale",
+      "Rostre triangulaire",
+      "Bord inférieur de l’écaille lisse",
+      "Épines sur les flancs derrière le sillon cervical",
+      "Face interne des pinces blanche",
+      "Pinces rugueuses"
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-125",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ecrevisse signal",
+    "latin": "Pacifastacus leniusculus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Deux crêtes postorbitales",
+      "Rostre aux bords parallèles",
+      "Tache blanche ou bleutée à la commissure des pinces",
+      "Pinces lisses, rouges en face ventrale",
+      "Céphalothorax lisse"
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-126",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ecrevisse américaine",
+    "latin": "Orconectes limosus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Un ergot interne sur le carpopodite",
+      "Rostre en gouttière à bords parallèles",
+      "Taches rougeâtres sur les segments abdominaux",
+      "Épines sur les joues et derrière le sillon cervical"
+    ]
+  },
+  {
+    "id": "aquatique-poissons-et-crevisses-127",
+    "option": "aquatique",
+    "category": "Poissons",
+    "common": "Ecrevisse à pattes rouges",
+    "latin": "Astacus astacus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Deux crêtes postorbitales",
+      "Crête médiane du rostre denticulée",
+      "Épines derrière le sillon cervical",
+      "Face interne des pinces rouge",
+      "Pinces massives et rugueuses"
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-128",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Cygne tuberculé",
+    "latin": "Cygnus olor",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand oiseau blanc au cou long, souvent courbé en S.",
+      "Bec orange avec tubercule noir à la base chez l'adulte."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-129",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Ouette d'Egypte",
+    "latin": "Alopochen aegyptiaca",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oiseau brun fauve avec tache marron autour de l'œil.",
+      "Grande plage brun sombre sur le ventre et ailes contrastées blanc vert noir."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-130",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Canard colvert",
+    "latin": "Anas platyrhynchos",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle nuptial à tête vert irisé et collier blanc.",
+      "Miroir alaire bleu violet bordé de blanc chez les deux sexes."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-131",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Canard chipeau",
+    "latin": "Anas strepera",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle gris finement vermiculé avec arrière-train noir.",
+      "Miroir alaire blanc très visible en vol chez les deux sexes."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-132",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Canard pilet",
+    "latin": "Anas acuta",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Canard élancé à long cou, mâle à longue queue centrale pointue.",
+      "Mâle brun chocolat à bande blanche montant sur le côté du cou."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-133",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Canard souchet",
+    "latin": "Anas clypeata",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Bec exceptionnellement large et spatulé chez les deux sexes.",
+      "Mâle à tête vert sombre, poitrine blanche et flancs roux."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-134",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Canard siffleur",
+    "latin": "Anas penelope",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle à tête rousse et large bande crème sur le front.",
+      "Bec court gris bleuté à pointe noire; silhouette compacte."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-135",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Sarcelle d'hiver",
+    "latin": "Anas crecca",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit canard, mâle à tête rousse et bande verte autour de l'œil.",
+      "Miroir alaire vert bordé de noir; bec fin."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-136",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Sarcelle d'été",
+    "latin": "Anas querquedula",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle à large sourcil blanc arqué jusqu'à la nuque.",
+      "Flancs gris finement barrés, scapulaires allongées pendantes."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-137",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Fuligule milouin",
+    "latin": "Aythya ferina",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle à tête rousse, poitrine noire et dos gris clair.",
+      "Bec gris bleuté à extrémité noire, sans huppe."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-138",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Nette rousse",
+    "latin": "Netta rufina",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle à grosse tête orange vif, bec rouge et poitrine noire.",
+      "Femelle à joues claires contrastant avec calotte sombre."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-139",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Fuligule morillon",
+    "latin": "Aythya fuligula",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle noir et blanc à longue huppe retombante.",
+      "Œil jaune vif et flancs blancs; femelle brun sombre huppée."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-140",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Garrot à oeil d'or",
+    "latin": "Bucephala clangula",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle à tête vert noir avec tache blanche ronde sous l'œil.",
+      "Œil jaune doré et corps blanc à dos noir."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-141",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Harle bièvre",
+    "latin": "Mergus merganser",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Bec rouge long et étroit à bords denticulés, adapté à la pêche.",
+      "Mâle à tête vert sombre et corps majoritairement blanc; femelle tête rousse à huppe."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-142",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Grèbe castagneux",
+    "latin": "Tachybaptus ruficollis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit grèbe trapu au cou court et à l'arrière du corps arrondi.",
+      "En plumage nuptial, joues et cou brun roux avec tache jaune à la base du bec."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-143",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Grèbe huppé",
+    "latin": "Podiceps cristatus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Long cou mince et grande huppe noire double.",
+      "En nuptial, larges collerettes rousses et noires de chaque côté de la tête."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-144",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Grand Cormoran",
+    "latin": "Phalacrocorax carbo",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand oiseau noir à long cou et bec crochu à l'extrémité.",
+      "Plage gulaire jaune à la base du bec; souvent ailes étendues au repos."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-145",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Blongios nain",
+    "latin": "Ixobrychus minutus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très petit héron au bec pointu, mâle à calotte et dos noirs.",
+      "Grandes plages beige clair sur les ailes contrastant avec le dessus sombre."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-146",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Bihoreau gris",
+    "latin": "Nycticorax nycticorax",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Héron trapu à cou court, calotte et dos noirs, ailes grises.",
+      "Œil rouge chez l'adulte et longues aigrettes blanches à la nuque."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-147",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Aigrette garzette",
+    "latin": "Egretta garzetta",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Héron blanc élancé au bec noir et pattes noires.",
+      "Doigts jaunes caractéristiques chez l'adulte, contrairement à la Grande Aigrette."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-148",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Grande Aigrette",
+    "latin": "Ardea alba",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand héron entièrement blanc au long cou.",
+      "Bec souvent jaune hors reproduction, pattes entièrement noires."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-149",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Héron cendré",
+    "latin": "Ardea cinerea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand héron gris à cou blanc strié de noir.",
+      "Calotte blanche bordée de noir et long bec jaunâtre en poignard."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-150",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Héron pourpré",
+    "latin": "Ardea purpurea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Héron élancé au long cou roux marqué de fines bandes noires.",
+      "Ailes gris ardoise et corps brun pourpré, plus sombre que le Héron cendré."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-151",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Cigogne noire",
+    "latin": "Ciconia nigra",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand échassier noir à reflets verts et pourpres, ventre blanc.",
+      "Bec et pattes rouge vif chez l'adulte, contrairement à la Cigogne blanche."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-152",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Milan noir",
+    "latin": "Milvus migrans",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Rapace brun sombre à queue faiblement échancrée.",
+      "Ailes longues légèrement coudées; queue moins fourchue que chez le Milan royal."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-153",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Busard des roseaux",
+    "latin": "Circus aeruginosus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand busard aux ailes longues tenues en V peu marqué.",
+      "Femelle brun chocolat avec tête et épaules crème; mâle tricolore brun gris noir."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-154",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Busard cendré",
+    "latin": "Circus pygargus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Busard très élancé aux ailes longues et étroites.",
+      "Mâle gris avec bande noire sur les secondaires et extrémités noires des ailes."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-155",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Balbuzard pêcheur",
+    "latin": "Pandion haliaetus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand rapace à dessous blanc, bande sombre à travers l'œil.",
+      "Ailes longues coudées et taches sombres aux poignets; pêche en plongeant pieds en avant."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-156",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Râle d'eau",
+    "latin": "Rallus aquaticus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oiseau de marais au long bec rouge légèrement courbé.",
+      "Poitrine gris ardoise et flancs fortement barrés de noir et blanc."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-157",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Gallinule poule-d'eau",
+    "latin": "Gallinula chloropus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps sombre, bec rouge à pointe jaune et plaque frontale rouge.",
+      "Ligne blanche sur les flancs et sous-caudales blanches très visibles."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-158",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Foulque macroule",
+    "latin": "Fulica atra",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Corps noir ardoise, bec et plaque frontale entièrement blancs.",
+      "Doigts lobés et non palmés; absence de rouge au bec."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-159",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Avocette élégante",
+    "latin": "Recurvirostra avosetta",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Limicole blanc et noir au bec très fin fortement recourbé vers le haut.",
+      "Longues pattes bleu gris et motif noir sur tête et ailes."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-160",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Echasse blanche",
+    "latin": "Himantopus himantopus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très longues pattes roses dépassant nettement la queue en vol.",
+      "Corps blanc et ailes noires, bec fin droit."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-161",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Oedicnème criard",
+    "latin": "Burhinus oedicnemus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand limicole brun sable aux yeux jaunes très grands.",
+      "Pattes jaunes robustes et deux barres alaires blanches contrastées."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-162",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Petit Gravelot",
+    "latin": "Charadrius dubius",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit limicole à collier pectoral noir et anneau orbital jaune vif.",
+      "Bec court entièrement sombre, sans base orange du Grand Gravelot adulte."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-163",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Vanneau huppé",
+    "latin": "Vanellus vanellus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Longue huppe noire effilée, dessus vert irisé et ventre blanc.",
+      "Ailes larges arrondies en vol, sous-caudales rousses."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-164",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Bécassine des marais",
+    "latin": "Gallinago gallinago",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très long bec droit, dos brun rayé de bandes crème longitudinales.",
+      "Calotte à bandes claires longitudinales et envol zigzaguant."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-165",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Courlis cendré",
+    "latin": "Numenius arquata",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Très grand limicole brun moucheté au long bec courbé vers le bas.",
+      "Tête assez uniformément striée, sans sourcil fortement marqué."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-166",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Chevalier gambette",
+    "latin": "Tringa totanus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Pattes rouge orangé et bec rouge à pointe sombre.",
+      "Large bord postérieur blanc des ailes visible en vol."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-167",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Chevalier culblanc",
+    "latin": "Tringa ochropus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dos brun foncé ponctué de clair, dessous blanc et pattes verdâtres.",
+      "Croupion blanc très contrasté en vol, ailes sombres sans large barre blanche."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-168",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Chevalier guignette",
+    "latin": "Actitis hypoleucos",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit chevalier brun à dessous blanc remontant en encoche devant l'aile.",
+      "Queue oscillant souvent; fine barre alaire blanche en vol."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-169",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Mouette rieuse",
+    "latin": "Chroicocephalus ridibundus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petite mouette au bec et pattes rouge sombre, capuchon brun chocolat en été.",
+      "En hiver, capuchon réduit à une tache sombre derrière l'œil."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-170",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Goéland leucophée",
+    "latin": "Larus michahellis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Grand goéland à dos gris, tête blanche et pattes jaunes chez l'adulte.",
+      "Bec jaune avec tache rouge près de la pointe; jeunes très différents."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-171",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Sterne pierregarin",
+    "latin": "Sterna hirundo",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Sterne fine à calotte noire, bec rouge orangé à pointe noire en nuptial.",
+      "Queue profondément fourchue et ailes étroites gris clair."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-172",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Martin-pêcheur d'Europe",
+    "latin": "Alcedo atthis",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit oiseau à dos bleu turquoise brillant et ventre orange roux.",
+      "Long bec noir en poignard, silhouette trapue à queue très courte."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-173",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Guêpier d'Europe",
+    "latin": "Merops apiaster",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Oiseau très coloré à gorge jaune, masque noir et dos brun roux.",
+      "Long bec noir incurvé et deux rectrices centrales allongées."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-174",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Hirondelle de rivage",
+    "latin": "Riparia riparia",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petite hirondelle brune dessus et blanche dessous.",
+      "Bande pectorale brune nette, queue légèrement fourchue."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-175",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Bergeronnette des ruisseaux",
+    "latin": "Motacilla cinerea",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Dessus gris ardoise, croupion jaune verdâtre et très longue queue.",
+      "Dessous jaune vif surtout chez le mâle; pattes rosées."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-176",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Cincle plongeur",
+    "latin": "Cinclus cinclus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Passereau trapu brun sombre à large plastron blanc net.",
+      "Queue courte souvent relevée; marche et plonge dans les cours d'eau."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-177",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Rousserolle effarvatte",
+    "latin": "Acrocephalus scirpaceus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Petit passereau brun roux uniforme dessus, dessous beige clair.",
+      "Bec fin, sourcil pâle peu marqué; ressemble à la Rousserolle verderolle, chant utile."
+    ]
+  },
+  {
+    "id": "aquatique-oiseaux-178",
+    "option": "aquatique",
+    "category": "Oiseaux",
+    "common": "Bruant des roseaux",
+    "latin": "Emberiza schoeniclus",
+    "image": "",
+    "audio": "",
+    "images": [],
+    "criteria": [
+      "Mâle nuptial à tête et gorge noires, collier blanc net.",
+      "Dos brun fortement strié et queue aux rectrices externes blanches."
+    ]
+  }
+]

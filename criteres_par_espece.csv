@@ -1,0 +1,179 @@
+﻿Groupe;Nom français;Nom scientifique;Critère 1;Critère 2
+Chiroptères;Grand rhinolophe;Rhinolophus ferrumequinum;"Grande taille, feuille nasale en fer à cheval et selle à sommet arrondi; au repos les ailes enveloppent partiellement le corps.";"Se distingue du Petit rhinolophe par sa taille nettement supérieure; mesures nécessaires."
+Chiroptères;Petit rhinolophe;Rhinolophus hipposideros;Très petit rhinolophe, suspendu au repos presque entièrement enveloppé dans ses ailes.;"La taille et la forme de la selle nasale le distinguent du Grand rhinolophe; vue rapprochée nécessaire."
+Chiroptères;Murin de Bechstein;Myotis bechsteinii;Oreilles exceptionnellement longues et larges, dépassant nettement le museau lorsqu'elles sont rabattues.;"Tragus fin et long; distinction d'autres murins par examen détaillé."
+Chiroptères;Petit murin;Myotis blythii;Grand murin aux oreilles relativement étroites et au museau moins massif que le Grand murin.;Espèce jumelle du Grand murin : critères externes variables, mensurations ou analyses souvent nécessaires.
+Chiroptères;Murin de Daubenton;Myotis daubentonii;"Pieds relativement grands et oreilles courtes; ventre clair nettement contrasté avec le dos brun.";"Chasse au ras de l'eau; identification sûre requiert parfois examen des pieds et du tragus."
+Chiroptères;Grand murin;Myotis myotis;"Très grand Myotis aux larges oreilles et ventre blanc grisâtre; dos brun-gris.";Le Petit murin lui ressemble fortement : photo seule rarement suffisante.
+Chiroptères;Pipistrelle commune;Pipistrellus pipistrellus;Très petite chauve-souris brune aux oreilles courtes et triangulaires, tragus arrondi.;Pipistrelle pygmée presque indiscernable à vue : cris ultrasonores nécessaires.
+Chiroptères;Grande Noctule;Nyctalus lasiopterus;Noctule exceptionnellement grande, longues ailes étroites et pelage brun-roux uniforme.;"Distinguer de la Noctule commune par taille et mesures; photographie isolée insuffisante."
+Chiroptères;Noctule commune;Nyctalus noctula;Grandes ailes longues et étroites, oreilles arrondies et pelage brun-roux lustré.;"Oreilles courtes en forme de champignon; distinguer de Grande Noctule par mensurations."
+Chiroptères;Sérotine commune;Eptesicus serotinus;Chauve-souris robuste, museau sombre et large, oreilles courtes triangulaires.;"Dos brun foncé, ventre jaunâtre; silhouette moins effilée que les noctules."
+Chiroptères;Barbastelle d’Europe;Barbastella barbastellus;Museau très court et aplati, oreilles larges se rejoignant au sommet du front.;Pelage presque noir avec pointes de poils argentées sur le dos.
+Chiroptères;Oreillard gris;Plecotus austriacus;"Oreilles démesurément longues et réunies à la base; museau gris sombre.";"Masque facial foncé et ventre gris; distinguer de l'Oreillard roux par examen spécialisé."
+Chiroptères;Minioptère de Schreibers;Miniopterus schreibersii;Front bombé, museau très court et oreilles triangulaires courtes.;"Ailes longues et étroites, silhouette caractéristique en vol; pelage gris brun."
+Chiroptères;Molosse de Cestoni;Tadarida teniotis;Très grandes oreilles dirigées vers l'avant et jointives, lèvres plissées.;Longue queue dépassant nettement la membrane interfémorale, contrairement à la plupart des chauves-souris.
+Mammifères;Hérisson d’Europe;Erinaceus europaeus;Dos et flancs supérieurs couverts de piquants brun et crème, face pointue sans piquants.;"Petites oreilles arrondies et pattes courtes; ne pas confondre avec un porc-épic."
+Mammifères;Crossope aquatique;Neomys fodiens;Musaraigne au dos presque noir et ventre blanc nettement délimité.;"Frange de poils natatoires aux pieds et sous la queue; museau long très pointu."
+Mammifères;Taupe d’Europe;Talpa europaea;Corps cylindrique à fourrure noire veloutée et yeux minuscules.;Mains antérieures très larges, tournées vers l'extérieur, adaptées au fouissage.
+Mammifères;Lièvre d’Europe;Lepus europaeus;Très longues oreilles à extrémité noire et longues pattes postérieures.;"Silhouette haute et élancée; plus grand que le lapin de garenne."
+Mammifères;Lapin de garenne;Oryctolagus cuniculus;Oreilles proportionnellement plus courtes que celles du lièvre, sans pointe noire marquée.;"Corps trapu, petite queue blanche visible en fuite; vit souvent en colonies."
+Mammifères;Ecureuil roux;Sciurus vulgaris;Longue queue très touffue et oreilles parfois ornées de pinceaux de poils.;"Pelage roux à brun sombre variable; ventre nettement blanc."
+Mammifères;Marmotte des Alpes;Marmota marmota;Gros rongeur trapu, oreilles courtes et queue touffue relativement courte.;"Pelage brun gris, grandes incisives; silhouette de prairie alpine."
+Mammifères;Castor d’Eurasie;Castor fiber;Queue large, plate et écailleuse, en forme de palette.;"Grandes pattes arrière palmées; le ragondin a une queue cylindrique."
+Mammifères;Loir gris;Glis glis;Grand gliridé gris argenté au ventre blanc, grands yeux sombres.;Queue longue très touffue et uniformément grise, contrairement au Lérot.
+Mammifères;Muscardin;Muscardinus avellanarius;Petit gliridé à pelage roux doré uniforme et grands yeux noirs.;Queue uniformément velue, sans masque noir autour des yeux.
+Mammifères;Lérot;Eliomys quercinus;Masque noir très contrasté entourant les yeux et allant vers les oreilles.;Queue touffue terminée par un pinceau noir et blanc.
+Mammifères;Grand hamster;Cricetus cricetus;Corps trapu avec ventre noir et grandes taches claires sur les flancs.;"Dos brun-roux, joues blanches; silhouette sans longue queue apparente."
+Mammifères;Campagnol roussâtre;Clethrionomys glareolus;Dos brun roux, flancs plus gris et ventre clair.;"Queue relativement longue pour un campagnol; oreilles visibles dans le pelage."
+Mammifères;Campagnol amphibie;Arvicola sapidus;Grand campagnol brun sombre au museau arrondi, petites oreilles cachées.;"Queue assez longue, non aplatie; ne pas confondre avec le Rat musqué, bien plus gros."
+Mammifères;Campagnol des champs;Microtus arvalis;Petit campagnol trapu brun gris, museau court et oreilles peu apparentes.;Queue courte, contrairement aux mulots à grandes oreilles et longue queue.
+Mammifères;Rat musqué;Ondatra zibethicus;Rongeur aquatique brun sombre, tête arrondie et petites oreilles.;Queue longue comprimée latéralement, non plate comme celle du castor.
+Mammifères;Mulot à collier;Apodemus flavicollis;Mulot à grandes oreilles et grands yeux, dos brun fauve.;"Tache jaune pectorale souvent prolongée en collier sur la poitrine; variable selon individus."
+Mammifères;Rat des moissons;Micromys minutus;Minuscule rongeur fauve orangé, ventre blanc nettement délimité.;Queue fine préhensile utilisée pour grimper sur les tiges.
+Mammifères;Rat surmulot;Rattus norvegicus;Grand rat brun gris, museau plutôt émoussé et petites oreilles.;Queue généralement plus courte que le corps tête comprise, contrairement au Rat noir.
+Mammifères;Souris grise;Mus musculus;Petit muridé gris brun à museau pointu et oreilles arrondies visibles.;"Queue fine écailleuse presque aussi longue que le corps; plus petite qu'un rat."
+Mammifères;Ragondin;Myocastor coypus;Grand rongeur aquatique à museau carré et longues vibrisses blanches.;Incisives orange et queue longue cylindrique, non plate comme chez le castor.
+Mammifères;Loup;Canis lupus;Grand canidé haut sur pattes, poitrine étroite et queue touffue généralement pendante.;"Oreilles relativement courtes et museau puissant; distinguer des chiens par ensemble de critères."
+Mammifères;Renard roux;Vulpes vulpes;Museau effilé, grandes oreilles triangulaires et pelage souvent roux.;Queue très touffue fréquemment terminée de blanc.
+Mammifères;Ours brun;Ursus arctos;Corps massif avec bosse musculaire au garrot et petites oreilles rondes.;Museau allongé et griffes longues, non rétractiles.
+Mammifères;Hermine;Mustela erminea;Mustélidé fin, brun dessus et blanc dessous en été.;Extrémité de la queue toujours noire, y compris en pelage hivernal blanc.
+Mammifères;Vison d’Europe;Mustela lutreola;Petit mustélidé brun foncé avec blanc sur lèvre supérieure ET inférieure.;"Le Vison d'Amérique a généralement le blanc surtout sur la lèvre inférieure; caractères variables."
+Mammifères;Belette d’Europe;Mustela nivalis;Très petit mustélidé allongé, brun dessus et blanc dessous.;Queue courte sans pinceau terminal noir, contrairement à l'Hermine.
+Mammifères;Putois d’Europe;Mustela putorius;Masque facial clair et sombre contrasté, pelage brun noir à sous-poil jaunâtre.;"Oreilles bordées de clair; silhouette plus trapue que celle des visons."
+Mammifères;Fouine;Martes foina;Bavette blanche souvent fourchue descendant sur les pattes antérieures.;"Truffe rose et oreilles bordées de clair; Martre des pins à bavette plutôt jaune."
+Mammifères;Martre des pins;Martes martes;Bavette généralement jaune crème, souvent arrondie, sur la gorge.;"Truffe sombre et grandes oreilles arrondies à bord clair; variations possibles."
+Mammifères;Blaireau européen;Meles meles;Tête blanche traversée de deux larges bandes noires longitudinales.;Corps très trapu et bas, petites oreilles et courte queue.
+Mammifères;Loutre d’Europe;Lutra lutra;Corps fuselé brun, tête aplatie et petites oreilles rondes.;"Queue épaisse à la base, progressivement effilée; doigts palmés."
+Mammifères;Genette commune;Genetta genetta;Pelage gris clair ponctué de nombreuses taches noires alignées.;Très longue queue annelée noir et blanc, museau pointu.
+Mammifères;Chat forestier;Felis silvestris;Queue épaisse cylindrique, annelée de noir et terminée par un bout noir arrondi.;"Raie dorsale sombre s'arrêtant avant la queue; hybridation avec chat domestique possible."
+Mammifères;Lynx boréal;Lynx lynx;Oreilles triangulaires surmontées de longs pinceaux noirs et favoris faciaux.;Queue très courte à extrémité entièrement noire, grandes pattes.
+Mammifères;Sanglier;Sus scrofa;Museau allongé terminé par un groin discoïde et corps massif.;"Pelage hérissé brun noir; marcassins rayés longitudinalement."
+Mammifères;Cerf élaphe;Cervus elaphus;Grand cervidé aux longues pattes, mâle portant de grands bois ramifiés.;"Croupe beige jaunâtre et queue courte; femelle beaucoup plus grande qu'une chevrette."
+Mammifères;Daim européen;Dama dama;Cervidé à robe souvent tachetée de blanc et longue queue bordée de noir.;Mâle adulte à bois palmés, contrairement au cerf élaphe.
+Mammifères;Chevreuil européen;Capreolus capreolus;Petit cervidé au miroir fessier clair très visible, queue quasi invisible.;Mâle aux bois courts portant au maximum trois pointes par merrain habituellement.
+Mammifères;Chamois des Alpes;Rupicapra rupicapra;Face claire avec deux bandes noires des oreilles au museau.;Petites cornes noires recourbées en crochet vers l'arrière chez les deux sexes.
+Mammifères;Isard des Pyrénées;Rupicapra pyrenaica;Chamois pyrénéen à bandes faciales sombres et cornes fines en crochet.;"Pelage hivernal avec plages claires marquées aux épaules; distinction du Chamois alpin surtout géographique."
+Mammifères;Bouquetin des Alpes;Capra ibex;Mâle aux très grandes cornes épaisses recourbées vers l'arrière, à bourrelets transversaux.;"Barbiche chez le mâle et corps massif; femelle à cornes plus fines."
+Mammifères;Mouflon de Corse;Ovis gmelini musimon var. corsicana;Mâle portant de grosses cornes spiralées latéralement et pelage brun.;"Selle dorsale blanchâtre fréquente chez les mâles adultes; femelle à cornes petites ou absentes."
+Squamates;Lézard à deux raies;Lacerta bilineata;Grand lézard vert, mâle souvent à gorge bleu vif au printemps.;"Femelle souvent avec deux bandes dorsolatérales claires; distinguer du Lézard des souches par taille et coloration."
+Squamates;Lézard des souches;Lacerta agilis;"Corps trapu et tête courte; mâle aux flancs vert vif en période nuptiale.";Dos généralement brun avec ocelles ou motifs sombres bordés de clair.
+Squamates;Lézard ocellé;Timon lepidus;Très grand lézard robuste à flancs portant de grands ocelles bleus.;"Dos verdâtre à motifs noirs réticulés; taille supérieure aux autres lézards locaux."
+Squamates;Lézard vivipare;Zootoca vivipara;Petit lézard brun à tête courte, souvent avec bande dorsale sombre.;Écailles dorsales assez grandes et silhouette moins aplatie que le Lézard des murailles.
+Squamates;Lézard des murailles;Podarcis muralis;Lézard fin à longue queue et tête relativement aplatie.;"Flancs souvent réticulés de sombre et clair; doigts longs adaptés aux murs."
+Squamates;Orvet fragile;Anguis fragilis;Lézard sans pattes, corps lisse et brillant, tête peu distincte du cou.;"Paupières mobiles et possibilité d'autotomie de la queue; à distinguer des serpents."
+Squamates;Vipère aspic;Vipera aspis;Vipère trapue à tête triangulaire et museau souvent relevé.;"Dessins dorsaux en barres ou zigzags discontinus; pupille verticale."
+Squamates;Vipère péliade;Vipera berus;Museau peu retroussé, tête relativement plate et zigzag dorsal souvent continu.;"Écaille rostrale basse et pupille verticale; coloration variable."
+Squamates;Vipère de Seoane;Vipera seoanei;Vipère de petite taille à tête peu distincte et motifs dorsaux très variables.;"Présence dans le sud-ouest pyrénéen; distinction de la péliade délicate sans examen détaillé."
+Squamates;Vipère de Lataste;Vipera latastei;Museau portant une protubérance nettement relevée, plus marquée que chez l'aspic.;"Zigzag dorsal foncé souvent net; répartition méditerranéenne ibérique."
+Squamates;Vipère d'Orsini;Vipera ursinii;Très petite vipère trapue à museau court, zigzag dorsal sombre fin.;"Tête peu élargie, habitat de pelouses montagnardes; identification spécialisée."
+Squamates;Couleuvre à collier;Natrix helvetica;Collier jaunâtre ou blanchâtre derrière la tête, souvent bordé de noir.;"Flancs barrés de marques noires verticales; collier parfois estompé chez l'adulte."
+Squamates;Couleuvre vipérine;Natrix maura;Motif dorsal en zigzag et taches latérales évoquant une vipère.;"Pupille ronde et tête plus allongée; fréquente au bord de l'eau."
+Squamates;Coronelle lisse;Coronella austriaca;Petit serpent brun gris à bande sombre passant par l'œil.;"Deux rangées de taches dorsales et écailles lisses; pupille ronde."
+Squamates;Coronelle girondine;Coronella girondica;Serpent mince avec dessin sombre en bride reliant les yeux sur la tête.;Ventre souvent à damier noir et clair, contrairement à la Coronelle lisse.
+Squamates;Couleuvre d'Esculape;Zamenis longissimus;Grand serpent élancé brun olive uniforme, ventre jaune pâle.;Écailles lisses et petites marques claires aux commissures des lèvres.
+Squamates;Couleuvre verte et jaune;Hierophis viridiflavus;Serpent très vif, adulte noir verdâtre moucheté ou strié de jaune.;"Queue longue et corps élancé; juvéniles grisâtres à motifs différents."
+Squamates;Couleuvre de Montpellier;Malpolon monspessulanus;Grand serpent à tête longue, sourcil saillant donnant un regard sévère.;Adulte souvent vert olive assez uniforme, avec grande taille et corps robuste.
+Squamates;Couleuvre à échelons;Zamenis scalaris;Juvénile à dessin dorsal en échelle avec barres transversales.;Adulte à deux lignes sombres longitudinales sur dos brun clair.
+Batraciens;Salamandre tachetée;Salamandra salamandra;Amphibien noir brillant à taches ou bandes jaune vif irrégulières.;Corps robuste, queue arrondie et glandes parotoïdes proéminentes.
+Batraciens;Triton alpestre;Ichthyosaura alpestris;Mâle nuptial bleu gris à flancs ponctués, ventre orange vif sans taches.;"Petite crête basse; femelle marbrée avec ventre orange uni."
+Batraciens;Triton palmé;Lissotriton helveticus;Petit triton, mâle nuptial avec palmures noires aux pieds arrière.;"Extrémité de la queue prolongée d'un filament; gorge généralement non tachetée."
+Batraciens;Triton ponctué;Lissotriton vulgaris;Mâle nuptial avec crête dorsale ondulée et grandes taches rondes sombres.;Gorge tachetée, contrairement au Triton palmé souvent à gorge claire.
+Batraciens;Triton crêté;Triturus cristatus;Grand triton sombre à peau granuleuse et ventre orange tacheté de noir.;Mâle nuptial à haute crête dentelée interrompue à la base de la queue.
+Batraciens;Triton marbré;Triturus marmoratus;Dos vert vif marbré de noir, ventre sombre à petites taches claires.;"Femelle et jeunes souvent avec ligne vertébrale orange; mâle à crête barrée."
+Batraciens;Crapaud accoucheur;Alytes obstetricans;Petit crapaud gris brun aux yeux dorés à pupille verticale.;Mâle pouvant porter des cordons d'œufs enroulés autour des pattes arrière.
+Batraciens;Sonneur à ventre jaune;Bombina variegata;Dos gris brun verruqueux, ventre jaune vif marbré de noir.;"Pupille en forme de cœur; motif ventral jaune plus étendu que chez le Sonneur à ventre rouge."
+Batraciens;Sonneur à ventre rouge;Bombina bombina;Ventre noir ponctué de rouge orangé, dos gris brun.;"Pupille en cœur; taches rouges généralement moins étendues que le jaune chez B. variegata."
+Batraciens;Pélobate cultripède;Pelobates cultripes;Crapaud trapu à pupille verticale et grands yeux saillants.;Éperon noir tranchant sous chaque pied postérieur, utilisé pour s'enfouir.
+Batraciens;Pélodyte ponctué;Pelodytes punctatus;Petit amphibien élancé, peau claire parsemée de petites taches vertes.;"Yeux saillants à pupille verticale; allure plus fine qu'un crapaud."
+Batraciens;Pélobate brun;Pelobates fuscus;Crapaud fouisseur à pupille verticale et taches brunes sur fond gris beige.;"Tubercule métatarsien dur en pelle; distinguer du cultripède par l'éperon et la répartition."
+Batraciens;Crapaud commun;Bufo bufo;Gros crapaud brun verruqueux aux glandes parotoïdes allongées.;"Iris cuivré à pupille horizontale; absence de bande dorsale jaune nette."
+Batraciens;Crapaud calamite;Epidalea calamita;Ligne médiane dorsale jaune pâle souvent très visible.;Pattes arrière relativement courtes, déplacement fréquemment en course plutôt qu'en bonds.
+Batraciens;Crapaud vert;Bufotes viridis;Fond dorsal gris clair ou crème portant des taches vertes irrégulières.;"Petites verrues souvent rougeâtres; glandes parotoïdes peu proéminentes."
+Batraciens;Grenouille verte;Pelophylax kl. esculentus;Grenouille aquatique verte ou brune, souvent à ligne dorsale claire.;Hybride du complexe des grenouilles vertes : distinction visuelle fiable souvent impossible sans chant ou mesures.
+Batraciens;Grenouille verte de Lessona;Pelophylax lessonae;Petite grenouille verte aux flancs souvent vert vif et museau court.;"Sacs vocaux blancs chez le mâle; différenciation des hybrides requiert chant et critères combinés."
+Batraciens;Grenouille rieuse;Pelophylax ridibundus;Grande grenouille verte au museau assez pointu et longues pattes arrière.;"Mâle aux sacs vocaux gris foncé; chant puissant et ricanant, utile pour confirmation."
+Batraciens;Grenouille rousse;Rana temporaria;Grenouille brune à masque temporal sombre et museau plutôt arrondi.;Tubercule métatarsien petit et pattes postérieures relativement courtes.
+Batraciens;Grenouille des champs;Rana arvalis;Grenouille brune au museau pointu et ventre souvent clair non tacheté.;"Mâle pouvant devenir bleu en reproduction; grand tubercule métatarsien."
+Batraciens;Grenouille agile;Rana dalmatina;Grenouille brune élancée au museau pointu et très longues pattes arrière.;"Tympan grand proche de l'œil; talon dépassant souvent le museau quand patte repliée."
+Batraciens;Rainette verte;Hyla arborea;Petite rainette verte à disques adhésifs et bande sombre de la narine à l'aine.;La bande latérale forme habituellement une boucle remontante près de l'aine.
+Batraciens;Rainette méridionale;Hyla meridionalis;Rainette verte à bande sombre limitée surtout à la tête, s'arrêtant près de l'épaule.;Absence de longue bande sombre sur le flanc, contrairement à la Rainette verte.
+Poissons;Poisson chat;Ameiurus melas;Petit siluriforme brun noir à tête large et quatre paires de barbillons.;"Nageoire adipeuse présente; fortes épines aux nageoires dorsale et pectorales."
+Poissons;Ombre commun;Thymallus thymallus;Grande nageoire dorsale haute en voile, souvent tachetée de pourpre.;"Petite bouche et corps argenté; silhouette très différente de la truite."
+Poissons;Corégone;Coregonus sp.;Poisson salmoniforme argenté à petite bouche et nageoire adipeuse.;Identification à l'espèce impossible ici : « Coregonus sp. » désigne un genre.
+Poissons;Truite commune;Salmo trutta;Corps fuselé avec nageoire adipeuse, flancs souvent ponctués de rouge et de noir.;"Grande bouche dépassant vers l'arrière de l'œil; robe très variable."
+Poissons;Silure glane;Silurus glanis;Très grand poisson sans écailles à tête aplatie et large bouche.;"Deux longs barbillons supérieurs et quatre petits inférieurs; longue nageoire anale."
+Poissons;Brochet;Esox lucius;Corps très allongé et museau aplati en bec de canard.;Nageoires dorsale et anale reculées près de la queue, robe marbrée.
+Poissons;Carpe;Cyprinus carpio;Corps haut et robuste, longue nageoire dorsale et bouche protractile.;"Deux paires de barbillons aux commissures; écaillure variable selon variétés."
+Poissons;Loche franche;Barbatula barbatula;Petit poisson benthique allongé à six barbillons autour de la bouche.;Corps marbré brun, bouche infère et nageoires arrondies.
+Poissons;Barbeau;Barbus barbus;Poisson fuselé de rivière à bouche infère portant quatre barbillons.;Lèvre inférieure charnue et nageoire dorsale courte à rayon épineux.
+Poissons;Goujon;Gobio gobio;Petit cyprinidé au corps allongé, une paire de barbillons aux commissures.;Rangée de taches sombres le long des flancs, bouche infère.
+Poissons;Tanche;Tinca tinca;Corps épais vert olive, très petites écailles incluses dans une peau visqueuse.;Nageoires arrondies et un petit barbillon à chaque commissure.
+Poissons;Brème commune;Abramis brama;Corps très haut et comprimé latéralement, nageoire anale très longue.;Petite bouche protractile orientée vers le bas, nageoires gris sombre.
+Poissons;Vairon;Phoxinus phoxinus;Très petit poisson fuselé à petites écailles et ligne latérale souvent incomplète.;Flancs avec marques sombres et ventre rougeâtre chez le mâle reproducteur.
+Poissons;Gardon;Rutilus rutilus;Iris souvent rouge orangé et nageoires ventrales rougeâtres.;"Nageoire dorsale située approximativement à l'aplomb des pelviennes; bouche terminale."
+Poissons;Chevaine;Squalius cephalus;Grosse tête large, bouche terminale et corps cylindrique robuste.;Écailles à bord sombre formant un dessin réticulé sur les flancs.
+Poissons;Chabot;Cottus gobio;Tête très large et aplatie, grandes nageoires pectorales en éventail.;"Corps sans écailles apparentes et deux nageoires dorsales; vit posé sur le fond."
+Poissons;Perche;Perca fluviatilis;Deux nageoires dorsales dont la première épineuse, bandes noires verticales.;Nageoires pelviennes et anale souvent orangées ou rouges.
+Poissons;Perche soleil;Lepomis gibbosus;Petit poisson très haut de corps aux couleurs vives bleu vert et orange.;Opercule portant une tache noire et rouge, nageoire dorsale épineuse.
+Poissons;Sandre;Sander lucioperca;Corps allongé, deux dorsales séparées et yeux vitreux réfléchissants.;"Canines bien développées dans la bouche; flancs à bandes verticales discrètes."
+Poissons;Lamproie de Planer;Lampetra planeri;Corps anguilliforme sans nageoires paires et bouche circulaire en ventouse.;"Sept orifices branchiaux de chaque côté de la tête; petite taille adulte."
+Poissons;Apron du Rhône;Zingel asper;Petit percidé fuselé à tête aplatie, corps brun à bandes sombres transversales.;"Deux dorsales séparées et yeux placés haut; poisson benthique du Rhône."
+Poissons;Ablette;Alburnus alburnus;Poisson argenté très comprimé, bouche nettement tournée vers le haut.;Nageoire anale relativement longue, dos bleu verdâtre.
+Poissons;Vandoise commune;Leuciscus leuciscus;Poisson argenté élancé à bouche petite et terminale ou légèrement infère.;Nageoires généralement grisâtres, museau plus pointu que chez le chevaine.
+Écrevisses;Ecrevisse de Louisiane;Procambarus clarkii;Écrevisse souvent rouge sombre, pinces granuleuses couvertes de tubercules rouges.;Sillon dorsal du céphalothorax rapproché et rostre relativement étroit.
+Écrevisses;Ecrevisse à pattes blanches;Austropotamobius pallipes;Dessous des pinces clair blanchâtre, dessus brun olive.;"Rostre triangulaire à bords convergents; distinguer des exotiques par examen des pinces."
+Écrevisses;Ecrevisse signal;Pacifastacus leniusculus;Tache claire bleu blanchâtre à l'articulation des pinces massives.;Dessous des pinces rouge vif, carapace brun rouge.
+Écrevisses;Ecrevisse américaine;Orconectes limosus;Bandes brun rouge transversales sur les segments de l'abdomen.;"Épines visibles sur les joues de la carapace; petites pinces aux pointes orange."
+Écrevisses;Ecrevisse à pattes rouges;Astacus astacus;Grosses pinces robustes au dessous rouge orangé.;Rostre à bords presque parallèles et carapace lisse brun sombre.
+Oiseaux;Cygne tuberculé;Cygnus olor;Très grand oiseau blanc au cou long, souvent courbé en S.;Bec orange avec tubercule noir à la base chez l'adulte.
+Oiseaux;Ouette d'Egypte;Alopochen aegyptiaca;Oiseau brun fauve avec tache marron autour de l'œil.;Grande plage brun sombre sur le ventre et ailes contrastées blanc vert noir.
+Oiseaux;Canard colvert;Anas platyrhynchos;Mâle nuptial à tête vert irisé et collier blanc.;Miroir alaire bleu violet bordé de blanc chez les deux sexes.
+Oiseaux;Canard chipeau;Anas strepera;Mâle gris finement vermiculé avec arrière-train noir.;Miroir alaire blanc très visible en vol chez les deux sexes.
+Oiseaux;Canard pilet;Anas acuta;Canard élancé à long cou, mâle à longue queue centrale pointue.;Mâle brun chocolat à bande blanche montant sur le côté du cou.
+Oiseaux;Canard souchet;Anas clypeata;Bec exceptionnellement large et spatulé chez les deux sexes.;Mâle à tête vert sombre, poitrine blanche et flancs roux.
+Oiseaux;Canard siffleur;Anas penelope;Mâle à tête rousse et large bande crème sur le front.;"Bec court gris bleuté à pointe noire; silhouette compacte."
+Oiseaux;Sarcelle d'hiver;Anas crecca;Très petit canard, mâle à tête rousse et bande verte autour de l'œil.;"Miroir alaire vert bordé de noir; bec fin."
+Oiseaux;Sarcelle d'été;Anas querquedula;Mâle à large sourcil blanc arqué jusqu'à la nuque.;Flancs gris finement barrés, scapulaires allongées pendantes.
+Oiseaux;Fuligule milouin;Aythya ferina;Mâle à tête rousse, poitrine noire et dos gris clair.;Bec gris bleuté à extrémité noire, sans huppe.
+Oiseaux;Nette rousse;Netta rufina;Mâle à grosse tête orange vif, bec rouge et poitrine noire.;Femelle à joues claires contrastant avec calotte sombre.
+Oiseaux;Fuligule morillon;Aythya fuligula;Mâle noir et blanc à longue huppe retombante.;"Œil jaune vif et flancs blancs; femelle brun sombre huppée."
+Oiseaux;Garrot à oeil d'or;Bucephala clangula;Mâle à tête vert noir avec tache blanche ronde sous l'œil.;Œil jaune doré et corps blanc à dos noir.
+Oiseaux;Harle bièvre;Mergus merganser;Bec rouge long et étroit à bords denticulés, adapté à la pêche.;"Mâle à tête vert sombre et corps majoritairement blanc; femelle tête rousse à huppe."
+Oiseaux;Grèbe castagneux;Tachybaptus ruficollis;Très petit grèbe trapu au cou court et à l'arrière du corps arrondi.;En plumage nuptial, joues et cou brun roux avec tache jaune à la base du bec.
+Oiseaux;Grèbe huppé;Podiceps cristatus;Long cou mince et grande huppe noire double.;En nuptial, larges collerettes rousses et noires de chaque côté de la tête.
+Oiseaux;Grand Cormoran;Phalacrocorax carbo;Grand oiseau noir à long cou et bec crochu à l'extrémité.;"Plage gulaire jaune à la base du bec; souvent ailes étendues au repos."
+Oiseaux;Blongios nain;Ixobrychus minutus;Très petit héron au bec pointu, mâle à calotte et dos noirs.;Grandes plages beige clair sur les ailes contrastant avec le dessus sombre.
+Oiseaux;Bihoreau gris;Nycticorax nycticorax;Héron trapu à cou court, calotte et dos noirs, ailes grises.;Œil rouge chez l'adulte et longues aigrettes blanches à la nuque.
+Oiseaux;Aigrette garzette;Egretta garzetta;Héron blanc élancé au bec noir et pattes noires.;Doigts jaunes caractéristiques chez l'adulte, contrairement à la Grande Aigrette.
+Oiseaux;Grande Aigrette;Ardea alba;Très grand héron entièrement blanc au long cou.;Bec souvent jaune hors reproduction, pattes entièrement noires.
+Oiseaux;Héron cendré;Ardea cinerea;Grand héron gris à cou blanc strié de noir.;Calotte blanche bordée de noir et long bec jaunâtre en poignard.
+Oiseaux;Héron pourpré;Ardea purpurea;Héron élancé au long cou roux marqué de fines bandes noires.;Ailes gris ardoise et corps brun pourpré, plus sombre que le Héron cendré.
+Oiseaux;Cigogne noire;Ciconia nigra;Grand échassier noir à reflets verts et pourpres, ventre blanc.;Bec et pattes rouge vif chez l'adulte, contrairement à la Cigogne blanche.
+Oiseaux;Milan noir;Milvus migrans;Rapace brun sombre à queue faiblement échancrée.;"Ailes longues légèrement coudées; queue moins fourchue que chez le Milan royal."
+Oiseaux;Busard des roseaux;Circus aeruginosus;Grand busard aux ailes longues tenues en V peu marqué.;"Femelle brun chocolat avec tête et épaules crème; mâle tricolore brun gris noir."
+Oiseaux;Busard cendré;Circus pygargus;Busard très élancé aux ailes longues et étroites.;Mâle gris avec bande noire sur les secondaires et extrémités noires des ailes.
+Oiseaux;Balbuzard pêcheur;Pandion haliaetus;Grand rapace à dessous blanc, bande sombre à travers l'œil.;"Ailes longues coudées et taches sombres aux poignets; pêche en plongeant pieds en avant."
+Oiseaux;Râle d'eau;Rallus aquaticus;Oiseau de marais au long bec rouge légèrement courbé.;Poitrine gris ardoise et flancs fortement barrés de noir et blanc.
+Oiseaux;Gallinule poule-d'eau;Gallinula chloropus;Corps sombre, bec rouge à pointe jaune et plaque frontale rouge.;Ligne blanche sur les flancs et sous-caudales blanches très visibles.
+Oiseaux;Foulque macroule;Fulica atra;Corps noir ardoise, bec et plaque frontale entièrement blancs.;"Doigts lobés et non palmés; absence de rouge au bec."
+Oiseaux;Avocette élégante;Recurvirostra avosetta;Limicole blanc et noir au bec très fin fortement recourbé vers le haut.;Longues pattes bleu gris et motif noir sur tête et ailes.
+Oiseaux;Echasse blanche;Himantopus himantopus;Très longues pattes roses dépassant nettement la queue en vol.;Corps blanc et ailes noires, bec fin droit.
+Oiseaux;Oedicnème criard;Burhinus oedicnemus;Grand limicole brun sable aux yeux jaunes très grands.;Pattes jaunes robustes et deux barres alaires blanches contrastées.
+Oiseaux;Petit Gravelot;Charadrius dubius;Petit limicole à collier pectoral noir et anneau orbital jaune vif.;Bec court entièrement sombre, sans base orange du Grand Gravelot adulte.
+Oiseaux;Vanneau huppé;Vanellus vanellus;Longue huppe noire effilée, dessus vert irisé et ventre blanc.;Ailes larges arrondies en vol, sous-caudales rousses.
+Oiseaux;Bécassine des marais;Gallinago gallinago;Très long bec droit, dos brun rayé de bandes crème longitudinales.;Calotte à bandes claires longitudinales et envol zigzaguant.
+Oiseaux;Courlis cendré;Numenius arquata;Très grand limicole brun moucheté au long bec courbé vers le bas.;Tête assez uniformément striée, sans sourcil fortement marqué.
+Oiseaux;Chevalier gambette;Tringa totanus;Pattes rouge orangé et bec rouge à pointe sombre.;Large bord postérieur blanc des ailes visible en vol.
+Oiseaux;Chevalier culblanc;Tringa ochropus;Dos brun foncé ponctué de clair, dessous blanc et pattes verdâtres.;Croupion blanc très contrasté en vol, ailes sombres sans large barre blanche.
+Oiseaux;Chevalier guignette;Actitis hypoleucos;Petit chevalier brun à dessous blanc remontant en encoche devant l'aile.;"Queue oscillant souvent; fine barre alaire blanche en vol."
+Oiseaux;Mouette rieuse;Chroicocephalus ridibundus;Petite mouette au bec et pattes rouge sombre, capuchon brun chocolat en été.;En hiver, capuchon réduit à une tache sombre derrière l'œil.
+Oiseaux;Goéland leucophée;Larus michahellis;Grand goéland à dos gris, tête blanche et pattes jaunes chez l'adulte.;"Bec jaune avec tache rouge près de la pointe; jeunes très différents."
+Oiseaux;Sterne pierregarin;Sterna hirundo;Sterne fine à calotte noire, bec rouge orangé à pointe noire en nuptial.;Queue profondément fourchue et ailes étroites gris clair.
+Oiseaux;Martin-pêcheur d'Europe;Alcedo atthis;Petit oiseau à dos bleu turquoise brillant et ventre orange roux.;Long bec noir en poignard, silhouette trapue à queue très courte.
+Oiseaux;Guêpier d'Europe;Merops apiaster;Oiseau très coloré à gorge jaune, masque noir et dos brun roux.;Long bec noir incurvé et deux rectrices centrales allongées.
+Oiseaux;Hirondelle de rivage;Riparia riparia;Petite hirondelle brune dessus et blanche dessous.;Bande pectorale brune nette, queue légèrement fourchue.
+Oiseaux;Bergeronnette des ruisseaux;Motacilla cinerea;Dessus gris ardoise, croupion jaune verdâtre et très longue queue.;"Dessous jaune vif surtout chez le mâle; pattes rosées."
+Oiseaux;Cincle plongeur;Cinclus cinclus;Passereau trapu brun sombre à large plastron blanc net.;"Queue courte souvent relevée; marche et plonge dans les cours d'eau."
+Oiseaux;Rousserolle effarvatte;Acrocephalus scirpaceus;Petit passereau brun roux uniforme dessus, dessous beige clair.;"Bec fin, sourcil pâle peu marqué; ressemble à la Rousserolle verderolle, chant utile."
+Oiseaux;Bruant des roseaux;Emberiza schoeniclus;Mâle nuptial à tête et gorge noires, collier blanc net.;Dos brun fortement strié et queue aux rectrices externes blanches.
